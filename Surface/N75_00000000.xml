@@ -1,0 +1,4880 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="style.xsl"?>
+<STAT>
+<TAG>ALL</TAG>
+<VAR>clouds <7500m</VAR>
+<UNIT>octas</UNIT>
+<PERIOD>20220816-20220831</PERIOD>
+ <STATION>
+ <MEAN_OBS>   4.25654459     </MEAN_OBS>
+ <STDV_OBS>   3.47218561     </STDV_OBS>
+ <EXP>
+ <ID>        2964 </ID>
+ <NAME>MNWC_prod</NAME>
+ <NUM>         382 </NUM>
+ <MEAN>   3.93455505     </MEAN>
+ <STDV>  -250.671631     </STDV>
+ <BIAS>   2.65802097     </BIAS>
+ <RMSE>  0.687405527     </RMSE>
+ <CORR>   6.64785890E+29 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2964 </ID>
+ <NAME>MNWC_3h_cycl</NAME>
+ <NUM>         382 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.75974965     </BIAS>
+ <RMSE>  0.672364056     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   3.63613653     </MEAN_OBS>
+ <STDV_OBS>   3.28157496     </STDV_OBS>
+ <EXP>
+ <ID>        2489 </ID>
+ <NAME>MNWC_prod</NAME>
+ <NUM>        1201 </NUM>
+ <MEAN>   3.04579520     </MEAN>
+ <STDV>  -250.671631     </STDV>
+ <BIAS>   2.79557753     </BIAS>
+ <RMSE>  0.669262469     </RMSE>
+ <CORR>   6.64785890E+29 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2489 </ID>
+ <NAME>MNWC_3h_cycl</NAME>
+ <NUM>        1201 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.86389112     </BIAS>
+ <RMSE>  0.649905264     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   4.15069628     </MEAN_OBS>
+ <STDV_OBS>   3.39113665     </STDV_OBS>
+ <EXP>
+ <ID>        2154 </ID>
+ <NAME>MNWC_prod</NAME>
+ <NUM>        1221 </NUM>
+ <MEAN>   3.38738751     </MEAN>
+ <STDV>  -250.671631     </STDV>
+ <BIAS>   2.63519931     </BIAS>
+ <RMSE>  0.697160065     </RMSE>
+ <CORR>   6.64785890E+29 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2154 </ID>
+ <NAME>MNWC_3h_cycl</NAME>
+ <NUM>        1221 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.88300347     </BIAS>
+ <RMSE>  0.632049024     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   3.30065370     </MEAN_OBS>
+ <STDV_OBS>   3.20556092     </STDV_OBS>
+ <EXP>
+ <ID>        2544 </ID>
+ <NAME>MNWC_prod</NAME>
+ <NUM>        1224 </NUM>
+ <MEAN>   2.86928105     </MEAN>
+ <STDV>  -250.671631     </STDV>
+ <BIAS>   2.88058090     </BIAS>
+ <RMSE>  0.614434958     </RMSE>
+ <CORR>   6.64785890E+29 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2544 </ID>
+ <NAME>MNWC_3h_cycl</NAME>
+ <NUM>        1224 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3.00846243     </BIAS>
+ <RMSE>  0.579011858     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   3.84999990     </MEAN_OBS>
+ <STDV_OBS>   3.31775093     </STDV_OBS>
+ <EXP>
+ <ID>        2186 </ID>
+ <NAME>MNWC_prod</NAME>
+ <NUM>        1220 </NUM>
+ <MEAN>   2.97295094     </MEAN>
+ <STDV>  -250.671631     </STDV>
+ <BIAS>   2.74238086     </BIAS>
+ <RMSE>  0.681598246     </RMSE>
+ <CORR>   6.64785890E+29 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2186 </ID>
+ <NAME>MNWC_3h_cycl</NAME>
+ <NUM>        1220 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.93670368     </BIAS>
+ <RMSE>  0.631213546     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   4.33497143     </MEAN_OBS>
+ <STDV_OBS>   3.55547452     </STDV_OBS>
+ <EXP>
+ <ID>        2141 </ID>
+ <NAME>MNWC_prod</NAME>
+ <NUM>        1221 </NUM>
+ <MEAN>   3.67813277     </MEAN>
+ <STDV>  -250.671631     </STDV>
+ <BIAS>   2.51715469     </BIAS>
+ <RMSE>  0.755445778     </RMSE>
+ <CORR>   6.64785890E+29 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2141 </ID>
+ <NAME>MNWC_3h_cycl</NAME>
+ <NUM>        1221 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.62402678     </BIAS>
+ <RMSE>  0.737543225     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.471428573     </MEAN_OBS>
+ <STDV_OBS>   2.36881948     </STDV_OBS>
+ <EXP>
+ <ID>        2590 </ID>
+ <NAME>MNWC_prod</NAME>
+ <NUM>         140 </NUM>
+ <MEAN>   1.58571434     </MEAN>
+ <STDV>  -250.671631     </STDV>
+ <BIAS>   2.68271112     </BIAS>
+ <RMSE>  0.181129858     </RMSE>
+ <CORR>   6.64785890E+29 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2590 </ID>
+ <NAME>MNWC_3h_cycl</NAME>
+ <NUM>         140 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.58591175     </BIAS>
+ <RMSE>  0.147760555     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   3.81639338     </MEAN_OBS>
+ <STDV_OBS>   2.98148918     </STDV_OBS>
+ <EXP>
+ <ID>        2520 </ID>
+ <NAME>MNWC_prod</NAME>
+ <NUM>        1220 </NUM>
+ <MEAN>   2.34590173     </MEAN>
+ <STDV>  -250.671631     </STDV>
+ <BIAS>   2.80539393     </BIAS>
+ <RMSE>  0.618245423     </RMSE>
+ <CORR>   6.64785890E+29 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2520 </ID>
+ <NAME>MNWC_3h_cycl</NAME>
+ <NUM>        1220 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.95428824     </BIAS>
+ <RMSE>  0.564778626     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   3.92991018     </MEAN_OBS>
+ <STDV_OBS>   3.18620706     </STDV_OBS>
+ <EXP>
+ <ID>        2562 </ID>
+ <NAME>MNWC_prod</NAME>
+ <NUM>        1227 </NUM>
+ <MEAN>   3.06845951     </MEAN>
+ <STDV>  -250.671631     </STDV>
+ <BIAS>   2.44302154     </BIAS>
+ <RMSE>  0.718005121     </RMSE>
+ <CORR>   6.64785890E+29 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2562 </ID>
+ <NAME>MNWC_3h_cycl</NAME>
+ <NUM>        1227 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.50190568     </BIAS>
+ <RMSE>  0.698011279     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   3.12428451     </MEAN_OBS>
+ <STDV_OBS>   3.25300360     </STDV_OBS>
+ <EXP>
+ <ID>        2443 </ID>
+ <NAME>MNWC_prod</NAME>
+ <NUM>        1223 </NUM>
+ <MEAN>   2.85772681     </MEAN>
+ <STDV>  -250.671631     </STDV>
+ <BIAS>   2.91934609     </BIAS>
+ <RMSE>  0.622776747     </RMSE>
+ <CORR>   6.64785890E+29 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2443 </ID>
+ <NAME>MNWC_3h_cycl</NAME>
+ <NUM>        1223 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3.12365794     </BIAS>
+ <RMSE>  0.569248915     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   3.09290934     </MEAN_OBS>
+ <STDV_OBS>   3.30003405     </STDV_OBS>
+ <EXP>
+ <ID>        2458 </ID>
+ <NAME>MNWC_prod</NAME>
+ <NUM>        1227 </NUM>
+ <MEAN>   3.16544414     </MEAN>
+ <STDV>  -250.671631     </STDV>
+ <BIAS>   3.19027972     </BIAS>
+ <RMSE>  0.527692258     </RMSE>
+ <CORR>   6.64785890E+29 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2458 </ID>
+ <NAME>MNWC_3h_cycl</NAME>
+ <NUM>        1227 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3.44954824     </BIAS>
+ <RMSE>  0.449644446     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   2.45096397     </MEAN_OBS>
+ <STDV_OBS>   3.20859313     </STDV_OBS>
+ <EXP>
+ <ID>        2545 </ID>
+ <NAME>MNWC_prod</NAME>
+ <NUM>        1193 </NUM>
+ <MEAN>   2.88683987     </MEAN>
+ <STDV>  -250.671631     </STDV>
+ <BIAS>   3.14224243     </BIAS>
+ <RMSE>  0.496808141     </RMSE>
+ <CORR>   6.64785890E+29 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2545 </ID>
+ <NAME>MNWC_3h_cycl</NAME>
+ <NUM>        1193 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3.23167276     </BIAS>
+ <RMSE>  0.461163431     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   3.90946507     </MEAN_OBS>
+ <STDV_OBS>   3.32733178     </STDV_OBS>
+ <EXP>
+ <ID>        2667 </ID>
+ <NAME>MNWC_prod</NAME>
+ <NUM>        1215 </NUM>
+ <MEAN>   3.21399188     </MEAN>
+ <STDV>  -250.671631     </STDV>
+ <BIAS>   3.06781149     </BIAS>
+ <RMSE>  0.591277301     </RMSE>
+ <CORR>   6.64785890E+29 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2667 </ID>
+ <NAME>MNWC_3h_cycl</NAME>
+ <NUM>        1215 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3.06866884     </BIAS>
+ <RMSE>  0.591613710     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   3.81907082     </MEAN_OBS>
+ <STDV_OBS>   3.28939700     </STDV_OBS>
+ <EXP>
+ <ID>        2664 </ID>
+ <NAME>MNWC_prod</NAME>
+ <NUM>        1227 </NUM>
+ <MEAN>   3.32110834     </MEAN>
+ <STDV>  -250.671631     </STDV>
+ <BIAS>   3.08149052     </BIAS>
+ <RMSE>  0.568453372     </RMSE>
+ <CORR>   6.64785890E+29 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2664 </ID>
+ <NAME>MNWC_3h_cycl</NAME>
+ <NUM>        1227 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3.14713144     </BIAS>
+ <RMSE>  0.552415550     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   3.74563599     </MEAN_OBS>
+ <STDV_OBS>   3.07441759     </STDV_OBS>
+ <EXP>
+ <ID>        2629 </ID>
+ <NAME>MNWC_prod</NAME>
+ <NUM>        1203 </NUM>
+ <MEAN>   2.84039903     </MEAN>
+ <STDV>  -250.671631     </STDV>
+ <BIAS>   3.20671630     </BIAS>
+ <RMSE>  0.538353205     </RMSE>
+ <CORR>   6.64785890E+29 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2629 </ID>
+ <NAME>MNWC_3h_cycl</NAME>
+ <NUM>        1203 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3.28921723     </BIAS>
+ <RMSE>  0.504584372     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   3.80550909     </MEAN_OBS>
+ <STDV_OBS>   3.41427445     </STDV_OBS>
+ <EXP>
+ <ID>        2661 </ID>
+ <NAME>MNWC_prod</NAME>
+ <NUM>        1198 </NUM>
+ <MEAN>   3.44407344     </MEAN>
+ <STDV>  -250.671631     </STDV>
+ <BIAS>   2.82716656     </BIAS>
+ <RMSE>  0.672853529     </RMSE>
+ <CORR>   6.64785890E+29 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2661 </ID>
+ <NAME>MNWC_3h_cycl</NAME>
+ <NUM>        1198 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.73304439     </BIAS>
+ <RMSE>  0.698523462     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   3.69434929     </MEAN_OBS>
+ <STDV_OBS>   3.29693055     </STDV_OBS>
+ <EXP>
+ <ID>        2171 </ID>
+ <NAME>MNWC_prod</NAME>
+ <NUM>        1168 </NUM>
+ <MEAN>   3.12414384     </MEAN>
+ <STDV>  -250.671631     </STDV>
+ <BIAS>   2.85662365     </BIAS>
+ <RMSE>  0.664117038     </RMSE>
+ <CORR>   6.64785890E+29 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2171 </ID>
+ <NAME>MNWC_3h_cycl</NAME>
+ <NUM>        1168 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.95228076     </BIAS>
+ <RMSE>  0.638448656     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   4.09926176     </MEAN_OBS>
+ <STDV_OBS>   3.51325011     </STDV_OBS>
+ <EXP>
+ <ID>        2151 </ID>
+ <NAME>MNWC_prod</NAME>
+ <NUM>        1219 </NUM>
+ <MEAN>   3.70467591     </MEAN>
+ <STDV>  -250.671631     </STDV>
+ <BIAS>   2.61763883     </BIAS>
+ <RMSE>  0.724587381     </RMSE>
+ <CORR>   6.64785890E+29 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2151 </ID>
+ <NAME>MNWC_3h_cycl</NAME>
+ <NUM>        1219 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.57220650     </BIAS>
+ <RMSE>  0.737361968     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   2.77159309     </MEAN_OBS>
+ <STDV_OBS>   3.21719718     </STDV_OBS>
+ <EXP>
+ <ID>        2561 </ID>
+ <NAME>MNWC_prod</NAME>
+ <NUM>        1042 </NUM>
+ <MEAN>   3.01631474     </MEAN>
+ <STDV>  -250.671631     </STDV>
+ <BIAS>   2.85480642     </BIAS>
+ <RMSE>  0.614056945     </RMSE>
+ <CORR>   6.64785890E+29 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2561 </ID>
+ <NAME>MNWC_3h_cycl</NAME>
+ <NUM>        1042 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.89956570     </BIAS>
+ <RMSE>  0.594349921     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   6.22208118     </MEAN_OBS>
+ <STDV_OBS>   3.35012078     </STDV_OBS>
+ <EXP>
+ <ID>        2321 </ID>
+ <NAME>MNWC_prod</NAME>
+ <NUM>         788 </NUM>
+ <MEAN>   4.75253820     </MEAN>
+ <STDV>  -250.671631     </STDV>
+ <BIAS>   3.43304729     </BIAS>
+ <RMSE>  0.311059982     </RMSE>
+ <CORR>   6.64785890E+29 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2321 </ID>
+ <NAME>MNWC_3h_cycl</NAME>
+ <NUM>         788 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3.55026793     </BIAS>
+ <RMSE>  0.251196563     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   4.98045111     </MEAN_OBS>
+ <STDV_OBS>   3.05010176     </STDV_OBS>
+ <EXP>
+ <ID>        2518 </ID>
+ <NAME>MNWC_prod</NAME>
+ <NUM>         665 </NUM>
+ <MEAN>   3.43308282     </MEAN>
+ <STDV>  -250.671631     </STDV>
+ <BIAS>   3.41890669     </BIAS>
+ <RMSE>  0.299361378     </RMSE>
+ <CORR>   6.64785890E+29 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2518 </ID>
+ <NAME>MNWC_3h_cycl</NAME>
+ <NUM>         665 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3.42321968     </BIAS>
+ <RMSE>  0.272954017     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   6.62467861     </MEAN_OBS>
+ <STDV_OBS>   3.06947708     </STDV_OBS>
+ <EXP>
+ <ID>        2368 </ID>
+ <NAME>MNWC_prod</NAME>
+ <NUM>         778 </NUM>
+ <MEAN>   4.28534698     </MEAN>
+ <STDV>  -250.671631     </STDV>
+ <BIAS>   3.08013797     </BIAS>
+ <RMSE>  0.372690052     </RMSE>
+ <CORR>   6.64785890E+29 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2368 </ID>
+ <NAME>MNWC_3h_cycl</NAME>
+ <NUM>         778 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3.15870190     </BIAS>
+ <RMSE>  0.330434471     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   6.70262432     </MEAN_OBS>
+ <STDV_OBS>   3.06360865     </STDV_OBS>
+ <EXP>
+ <ID>        2355 </ID>
+ <NAME>MNWC_prod</NAME>
+ <NUM>         686 </NUM>
+ <MEAN>   4.32798862     </MEAN>
+ <STDV>  -250.671631     </STDV>
+ <BIAS>   3.24105072     </BIAS>
+ <RMSE>  0.256522834     </RMSE>
+ <CORR>   6.64785890E+29 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2355 </ID>
+ <NAME>MNWC_3h_cycl</NAME>
+ <NUM>         686 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3.28720427     </BIAS>
+ <RMSE>  0.228312492     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   6.15989828     </MEAN_OBS>
+ <STDV_OBS>   3.06552792     </STDV_OBS>
+ <EXP>
+ <ID>        2440 </ID>
+ <NAME>MNWC_prod</NAME>
+ <NUM>         788 </NUM>
+ <MEAN>   4.41878176     </MEAN>
+ <STDV>  -250.671631     </STDV>
+ <BIAS>   2.99724507     </BIAS>
+ <RMSE>  0.435621947     </RMSE>
+ <CORR>   6.64785890E+29 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2440 </ID>
+ <NAME>MNWC_3h_cycl</NAME>
+ <NUM>         788 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3.22686791     </BIAS>
+ <RMSE>  0.336443990     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   6.10174417     </MEAN_OBS>
+ <STDV_OBS>   3.19516277     </STDV_OBS>
+ <EXP>
+ <ID>        2567 </ID>
+ <NAME>MNWC_prod</NAME>
+ <NUM>         688 </NUM>
+ <MEAN>   4.47674417     </MEAN>
+ <STDV>  -250.671631     </STDV>
+ <BIAS>   3.43973351     </BIAS>
+ <RMSE>  0.261585832     </RMSE>
+ <CORR>   6.64785890E+29 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2567 </ID>
+ <NAME>MNWC_3h_cycl</NAME>
+ <NUM>         688 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3.55383229     </BIAS>
+ <RMSE>  0.228334427     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   4.01385498     </MEAN_OBS>
+ <STDV_OBS>   3.33339810     </STDV_OBS>
+ <EXP>
+ <ID>        2981 </ID>
+ <NAME>MNWC_prod</NAME>
+ <NUM>        1227 </NUM>
+ <MEAN>   3.50040746     </MEAN>
+ <STDV>  -250.671631     </STDV>
+ <BIAS>   2.81581807     </BIAS>
+ <RMSE>  0.643333912     </RMSE>
+ <CORR>   6.64785890E+29 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2981 </ID>
+ <NAME>MNWC_3h_cycl</NAME>
+ <NUM>        1227 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.81116176     </BIAS>
+ <RMSE>  0.646872759     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   2.91768527     </MEAN_OBS>
+ <STDV_OBS>   3.34904766     </STDV_OBS>
+ <EXP>
+ <ID>        2741 </ID>
+ <NAME>MNWC_prod</NAME>
+ <NUM>        1227 </NUM>
+ <MEAN>   3.63325167     </MEAN>
+ <STDV>  -250.671631     </STDV>
+ <BIAS>   2.90442395     </BIAS>
+ <RMSE>  0.599513233     </RMSE>
+ <CORR>   6.64785890E+29 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2741 </ID>
+ <NAME>MNWC_3h_cycl</NAME>
+ <NUM>        1227 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3.09134674     </BIAS>
+ <RMSE>  0.538374007     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   4.41741991     </MEAN_OBS>
+ <STDV_OBS>   3.21006799     </STDV_OBS>
+ <EXP>
+ <ID>        2773 </ID>
+ <NAME>MNWC_prod</NAME>
+ <NUM>        1217 </NUM>
+ <MEAN>   3.46014786     </MEAN>
+ <STDV>  -250.671631     </STDV>
+ <BIAS>   3.09940934     </BIAS>
+ <RMSE>  0.572479069     </RMSE>
+ <CORR>   6.64785890E+29 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2773 </ID>
+ <NAME>MNWC_3h_cycl</NAME>
+ <NUM>        1217 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.95651579     </BIAS>
+ <RMSE>  0.597926438     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   3.59494686     </MEAN_OBS>
+ <STDV_OBS>   2.97362280     </STDV_OBS>
+ <EXP>
+ <ID>        2978 </ID>
+ <NAME>MNWC_prod</NAME>
+ <NUM>        1227 </NUM>
+ <MEAN>   2.69763637     </MEAN>
+ <STDV>  -250.671631     </STDV>
+ <BIAS>   3.53858662     </BIAS>
+ <RMSE>  0.356696337     </RMSE>
+ <CORR>   6.64785890E+29 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2978 </ID>
+ <NAME>MNWC_3h_cycl</NAME>
+ <NUM>        1227 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3.76673770     </BIAS>
+ <RMSE>  0.262183964     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   4.75794601     </MEAN_OBS>
+ <STDV_OBS>   3.38871837     </STDV_OBS>
+ <EXP>
+ <ID>        2926 </ID>
+ <NAME>MNWC_prod</NAME>
+ <NUM>        1227 </NUM>
+ <MEAN>   4.05215979     </MEAN>
+ <STDV>  -250.671631     </STDV>
+ <BIAS>   2.52408123     </BIAS>
+ <RMSE>  0.719450951     </RMSE>
+ <CORR>   6.64785890E+29 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2926 </ID>
+ <NAME>MNWC_3h_cycl</NAME>
+ <NUM>        1227 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.63491535     </BIAS>
+ <RMSE>  0.693430960     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   3.91279531     </MEAN_OBS>
+ <STDV_OBS>   3.13711643     </STDV_OBS>
+ <EXP>
+ <ID>        2754 </ID>
+ <NAME>MNWC_prod</NAME>
+ <NUM>        1227 </NUM>
+ <MEAN>   3.25264859     </MEAN>
+ <STDV>  -250.671631     </STDV>
+ <BIAS>   2.95760751     </BIAS>
+ <RMSE>  0.562976062     </RMSE>
+ <CORR>   6.64785890E+29 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2754 </ID>
+ <NAME>MNWC_3h_cycl</NAME>
+ <NUM>        1227 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3.04854512     </BIAS>
+ <RMSE>  0.537844658     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   4.16951895     </MEAN_OBS>
+ <STDV_OBS>   3.41218543     </STDV_OBS>
+ <EXP>
+ <ID>        2769 </ID>
+ <NAME>MNWC_prod</NAME>
+ <NUM>        1227 </NUM>
+ <MEAN>   4.21108389     </MEAN>
+ <STDV>  -250.671631     </STDV>
+ <BIAS>   2.39036560     </BIAS>
+ <RMSE>  0.748650312     </RMSE>
+ <CORR>   6.64785890E+29 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2769 </ID>
+ <NAME>MNWC_3h_cycl</NAME>
+ <NUM>        1227 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.60537982     </BIAS>
+ <RMSE>  0.697730124     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   4.04750204     </MEAN_OBS>
+ <STDV_OBS>   3.38737202     </STDV_OBS>
+ <EXP>
+ <ID>        2957 </ID>
+ <NAME>MNWC_prod</NAME>
+ <NUM>        1221 </NUM>
+ <MEAN>   3.54627347     </MEAN>
+ <STDV>  -250.671631     </STDV>
+ <BIAS>   2.44659400     </BIAS>
+ <RMSE>  0.738327861     </RMSE>
+ <CORR>   6.64785890E+29 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2957 </ID>
+ <NAME>MNWC_3h_cycl</NAME>
+ <NUM>        1221 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.56116796     </BIAS>
+ <RMSE>  0.708586216     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   4.12663412     </MEAN_OBS>
+ <STDV_OBS>   3.34025788     </STDV_OBS>
+ <EXP>
+ <ID>        2924 </ID>
+ <NAME>MNWC_prod</NAME>
+ <NUM>        1224 </NUM>
+ <MEAN>   4.14460802     </MEAN>
+ <STDV>  -250.671631     </STDV>
+ <BIAS>   2.69775152     </BIAS>
+ <RMSE>  0.692962348     </RMSE>
+ <CORR>   6.64785890E+29 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2924 </ID>
+ <NAME>MNWC_3h_cycl</NAME>
+ <NUM>        1224 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.82490158     </BIAS>
+ <RMSE>  0.656191409     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   4.02689457     </MEAN_OBS>
+ <STDV_OBS>   3.29564548     </STDV_OBS>
+ <EXP>
+ <ID>        2915 </ID>
+ <NAME>MNWC_prod</NAME>
+ <NUM>        1227 </NUM>
+ <MEAN>   3.57457209     </MEAN>
+ <STDV>  -250.671631     </STDV>
+ <BIAS>   2.68378377     </BIAS>
+ <RMSE>  0.687349737     </RMSE>
+ <CORR>   6.64785890E+29 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2915 </ID>
+ <NAME>MNWC_3h_cycl</NAME>
+ <NUM>        1227 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.81455636     </BIAS>
+ <RMSE>  0.651477754     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   3.56316209     </MEAN_OBS>
+ <STDV_OBS>   3.24490333     </STDV_OBS>
+ <EXP>
+ <ID>        2955 </ID>
+ <NAME>MNWC_prod</NAME>
+ <NUM>        1227 </NUM>
+ <MEAN>   3.06356955     </MEAN>
+ <STDV>  -250.671631     </STDV>
+ <BIAS>   2.68764496     </BIAS>
+ <RMSE>  0.669182599     </RMSE>
+ <CORR>   6.64785890E+29 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2955 </ID>
+ <NAME>MNWC_3h_cycl</NAME>
+ <NUM>        1227 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.70390916     </BIAS>
+ <RMSE>  0.665863335     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   3.54508185     </MEAN_OBS>
+ <STDV_OBS>   3.27093029     </STDV_OBS>
+ <EXP>
+ <ID>        2789 </ID>
+ <NAME>MNWC_prod</NAME>
+ <NUM>        1220 </NUM>
+ <MEAN>   3.42459011     </MEAN>
+ <STDV>  -250.671631     </STDV>
+ <BIAS>   2.65467000     </BIAS>
+ <RMSE>  0.676596284     </RMSE>
+ <CORR>   6.64785890E+29 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2789 </ID>
+ <NAME>MNWC_3h_cycl</NAME>
+ <NUM>        1220 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.68347836     </BIAS>
+ <RMSE>  0.666659713     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   3.70497131     </MEAN_OBS>
+ <STDV_OBS>   3.36421251     </STDV_OBS>
+ <EXP>
+ <ID>        2939 </ID>
+ <NAME>MNWC_prod</NAME>
+ <NUM>        1227 </NUM>
+ <MEAN>   3.57538700     </MEAN>
+ <STDV>  -250.671631     </STDV>
+ <BIAS>   2.80452299     </BIAS>
+ <RMSE>  0.643693089     </RMSE>
+ <CORR>   6.64785890E+29 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2939 </ID>
+ <NAME>MNWC_3h_cycl</NAME>
+ <NUM>        1227 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.71558571     </BIAS>
+ <RMSE>  0.668495774     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   3.28198862     </MEAN_OBS>
+ <STDV_OBS>   3.49047756     </STDV_OBS>
+ <EXP>
+ <ID>        2755 </ID>
+ <NAME>MNWC_prod</NAME>
+ <NUM>        1227 </NUM>
+ <MEAN>   3.72453117     </MEAN>
+ <STDV>  -250.671631     </STDV>
+ <BIAS>   2.32782435     </BIAS>
+ <RMSE>  0.758201957     </RMSE>
+ <CORR>   6.64785890E+29 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2755 </ID>
+ <NAME>MNWC_3h_cycl</NAME>
+ <NUM>        1227 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.46519375     </BIAS>
+ <RMSE>  0.731381178     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   3.31466222     </MEAN_OBS>
+ <STDV_OBS>   3.36182642     </STDV_OBS>
+ <EXP>
+ <ID>        2851 </ID>
+ <NAME>MNWC_prod</NAME>
+ <NUM>        1214 </NUM>
+ <MEAN>   3.26276755     </MEAN>
+ <STDV>  -250.671631     </STDV>
+ <BIAS>   2.51193738     </BIAS>
+ <RMSE>  0.727523744     </RMSE>
+ <CORR>   6.64785890E+29 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2851 </ID>
+ <NAME>MNWC_3h_cycl</NAME>
+ <NUM>        1214 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.48251390     </BIAS>
+ <RMSE>  0.728448868     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   2.95356560     </MEAN_OBS>
+ <STDV_OBS>   3.39831185     </STDV_OBS>
+ <EXP>
+ <ID>        2866 </ID>
+ <NAME>MNWC_prod</NAME>
+ <NUM>        1206 </NUM>
+ <MEAN>   3.33830857     </MEAN>
+ <STDV>  -250.671631     </STDV>
+ <BIAS>   2.39025545     </BIAS>
+ <RMSE>  0.738609791     </RMSE>
+ <CORR>   6.64785890E+29 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2866 </ID>
+ <NAME>MNWC_3h_cycl</NAME>
+ <NUM>        1206 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.35481930     </BIAS>
+ <RMSE>  0.747702301     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   3.08231449     </MEAN_OBS>
+ <STDV_OBS>   3.20349383     </STDV_OBS>
+ <EXP>
+ <ID>        2889 </ID>
+ <NAME>MNWC_prod</NAME>
+ <NUM>        1227 </NUM>
+ <MEAN>   2.91279531     </MEAN>
+ <STDV>  -250.671631     </STDV>
+ <BIAS>   2.63593149     </BIAS>
+ <RMSE>  0.672634363     </RMSE>
+ <CORR>   6.64785890E+29 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2889 </ID>
+ <NAME>MNWC_3h_cycl</NAME>
+ <NUM>        1227 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.64848232     </BIAS>
+ <RMSE>  0.659202099     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   3.59787059     </MEAN_OBS>
+ <STDV_OBS>   3.30951262     </STDV_OBS>
+ <EXP>
+ <ID>        2880 </ID>
+ <NAME>MNWC_prod</NAME>
+ <NUM>        1221 </NUM>
+ <MEAN>   3.13267803     </MEAN>
+ <STDV>  -250.671631     </STDV>
+ <BIAS>   2.95216060     </BIAS>
+ <RMSE>  0.597742379     </RMSE>
+ <CORR>   6.64785890E+29 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2880 </ID>
+ <NAME>MNWC_3h_cycl</NAME>
+ <NUM>        1221 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.86864638     </BIAS>
+ <RMSE>  0.618404746     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   3.57049179     </MEAN_OBS>
+ <STDV_OBS>   3.35152888     </STDV_OBS>
+ <EXP>
+ <ID>        2844 </ID>
+ <NAME>MNWC_prod</NAME>
+ <NUM>        1220 </NUM>
+ <MEAN>   3.40819669     </MEAN>
+ <STDV>  -250.671631     </STDV>
+ <BIAS>   2.20637393     </BIAS>
+ <RMSE>  0.776266754     </RMSE>
+ <CORR>   6.64785890E+29 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2844 </ID>
+ <NAME>MNWC_3h_cycl</NAME>
+ <NUM>        1220 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.32834721     </BIAS>
+ <RMSE>  0.754165053     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   3.39950991     </MEAN_OBS>
+ <STDV_OBS>   3.43997860     </STDV_OBS>
+ <EXP>
+ <ID>        2836 </ID>
+ <NAME>MNWC_prod</NAME>
+ <NUM>        1224 </NUM>
+ <MEAN>   3.77369285     </MEAN>
+ <STDV>  -250.671631     </STDV>
+ <BIAS>   2.61919475     </BIAS>
+ <RMSE>  0.690387249     </RMSE>
+ <CORR>   6.64785890E+29 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2836 </ID>
+ <NAME>MNWC_3h_cycl</NAME>
+ <NUM>        1224 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.74496341     </BIAS>
+ <RMSE>  0.662512660     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   3.25535417     </MEAN_OBS>
+ <STDV_OBS>   3.42409301     </STDV_OBS>
+ <EXP>
+ <ID>        2814 </ID>
+ <NAME>MNWC_prod</NAME>
+ <NUM>        1214 </NUM>
+ <MEAN>   3.41021419     </MEAN>
+ <STDV>  -250.671631     </STDV>
+ <BIAS>   2.92112803     </BIAS>
+ <RMSE>  0.610421300     </RMSE>
+ <CORR>   6.64785890E+29 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2814 </ID>
+ <NAME>MNWC_3h_cycl</NAME>
+ <NUM>        1214 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3.03180361     </BIAS>
+ <RMSE>  0.595503330     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   3.48573756     </MEAN_OBS>
+ <STDV_OBS>   3.35018086     </STDV_OBS>
+ <EXP>
+ <ID>        2849 </ID>
+ <NAME>MNWC_prod</NAME>
+ <NUM>        1227 </NUM>
+ <MEAN>   3.13610435     </MEAN>
+ <STDV>  -250.671631     </STDV>
+ <BIAS>   2.68403125     </BIAS>
+ <RMSE>  0.692790568     </RMSE>
+ <CORR>   6.64785890E+29 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2849 </ID>
+ <NAME>MNWC_3h_cycl</NAME>
+ <NUM>        1227 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.90504551     </BIAS>
+ <RMSE>  0.641954422     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   5.66829634     </MEAN_OBS>
+ <STDV_OBS>   3.45699167     </STDV_OBS>
+ <EXP>
+ <ID>        2801 </ID>
+ <NAME>MNWC_prod</NAME>
+ <NUM>        1227 </NUM>
+ <MEAN>   4.75387096     </MEAN>
+ <STDV>  -250.671631     </STDV>
+ <BIAS>   2.79019213     </BIAS>
+ <RMSE>  0.632735014     </RMSE>
+ <CORR>   6.64785890E+29 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2801 </ID>
+ <NAME>MNWC_3h_cycl</NAME>
+ <NUM>        1227 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.70349693     </BIAS>
+ <RMSE>  0.652891874     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   4.75656748     </MEAN_OBS>
+ <STDV_OBS>   3.35856199     </STDV_OBS>
+ <EXP>
+ <ID>        2805 </ID>
+ <NAME>MNWC_prod</NAME>
+ <NUM>        1142 </NUM>
+ <MEAN>   4.57880878     </MEAN>
+ <STDV>  -250.671631     </STDV>
+ <BIAS>   2.89282322     </BIAS>
+ <RMSE>  0.587228060     </RMSE>
+ <CORR>   6.64785890E+29 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2805 </ID>
+ <NAME>MNWC_3h_cycl</NAME>
+ <NUM>        1142 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3.00013351     </BIAS>
+ <RMSE>  0.565089524     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   3.26672316     </MEAN_OBS>
+ <STDV_OBS>   3.24822378     </STDV_OBS>
+ <EXP>
+ <ID>        2835 </ID>
+ <NAME>MNWC_prod</NAME>
+ <NUM>        1181 </NUM>
+ <MEAN>   3.16934800     </MEAN>
+ <STDV>  -250.671631     </STDV>
+ <BIAS>   2.67754650     </BIAS>
+ <RMSE>  0.650354385     </RMSE>
+ <CORR>   6.64785890E+29 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2835 </ID>
+ <NAME>MNWC_3h_cycl</NAME>
+ <NUM>        1181 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.74761105     </BIAS>
+ <RMSE>  0.644423127     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   3.50081706     </MEAN_OBS>
+ <STDV_OBS>   3.28213120     </STDV_OBS>
+ <EXP>
+ <ID>        2883 </ID>
+ <NAME>MNWC_prod</NAME>
+ <NUM>        1224 </NUM>
+ <MEAN>   3.17238569     </MEAN>
+ <STDV>  -250.671631     </STDV>
+ <BIAS>   2.65897822     </BIAS>
+ <RMSE>  0.691424370     </RMSE>
+ <CORR>   6.64785890E+29 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2883 </ID>
+ <NAME>MNWC_3h_cycl</NAME>
+ <NUM>        1224 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.81510425     </BIAS>
+ <RMSE>  0.651317775     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   3.68459654     </MEAN_OBS>
+ <STDV_OBS>   3.34354043     </STDV_OBS>
+ <EXP>
+ <ID>        2980 </ID>
+ <NAME>MNWC_prod</NAME>
+ <NUM>        1227 </NUM>
+ <MEAN>   3.57538700     </MEAN>
+ <STDV>  -250.671631     </STDV>
+ <BIAS>   2.86363792     </BIAS>
+ <RMSE>  0.631817520     </RMSE>
+ <CORR>   6.64785890E+29 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2980 </ID>
+ <NAME>MNWC_3h_cycl</NAME>
+ <NUM>        1227 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3.07040000     </BIAS>
+ <RMSE>  0.574912429     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   3.95517516     </MEAN_OBS>
+ <STDV_OBS>   3.40025163     </STDV_OBS>
+ <EXP>
+ <ID>        2790 </ID>
+ <NAME>MNWC_prod</NAME>
+ <NUM>        1227 </NUM>
+ <MEAN>   3.60717177     </MEAN>
+ <STDV>  -250.671631     </STDV>
+ <BIAS>   2.74642849     </BIAS>
+ <RMSE>  0.654463589     </RMSE>
+ <CORR>   6.64785890E+29 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2790 </ID>
+ <NAME>MNWC_3h_cycl</NAME>
+ <NUM>        1227 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.70476079     </BIAS>
+ <RMSE>  0.665307820     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   4.49959230     </MEAN_OBS>
+ <STDV_OBS>   3.00389624     </STDV_OBS>
+ <EXP>
+ <ID>        2974 </ID>
+ <NAME>MNWC_prod</NAME>
+ <NUM>        1227 </NUM>
+ <MEAN>   2.79951096     </MEAN>
+ <STDV>  -250.671631     </STDV>
+ <BIAS>   3.50244212     </BIAS>
+ <RMSE>  0.383300275     </RMSE>
+ <CORR>   6.64785890E+29 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2974 </ID>
+ <NAME>MNWC_3h_cycl</NAME>
+ <NUM>        1227 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3.66725516     </BIAS>
+ <RMSE>  0.316331953     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   4.39527273     </MEAN_OBS>
+ <STDV_OBS>   3.14615035     </STDV_OBS>
+ <EXP>
+ <ID>        2984 </ID>
+ <NAME>MNWC_prod</NAME>
+ <NUM>        1227 </NUM>
+ <MEAN>   3.17766905     </MEAN>
+ <STDV>  -250.671631     </STDV>
+ <BIAS>   3.12743950     </BIAS>
+ <RMSE>  0.521352708     </RMSE>
+ <CORR>   6.64785890E+29 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2984 </ID>
+ <NAME>MNWC_3h_cycl</NAME>
+ <NUM>        1227 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3.28202963     </BIAS>
+ <RMSE>  0.479411483     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   4.06112480     </MEAN_OBS>
+ <STDV_OBS>   3.21876264     </STDV_OBS>
+ <EXP>
+ <ID>        2976 </ID>
+ <NAME>MNWC_prod</NAME>
+ <NUM>        1227 </NUM>
+ <MEAN>   2.85982060     </MEAN>
+ <STDV>  -250.671631     </STDV>
+ <BIAS>   3.21543360     </BIAS>
+ <RMSE>  0.541680217     </RMSE>
+ <CORR>   6.64785890E+29 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2976 </ID>
+ <NAME>MNWC_3h_cycl</NAME>
+ <NUM>        1227 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3.33234835     </BIAS>
+ <RMSE>  0.506129622     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   3.67889142     </MEAN_OBS>
+ <STDV_OBS>   3.09808421     </STDV_OBS>
+ <EXP>
+ <ID>        2992 </ID>
+ <NAME>MNWC_prod</NAME>
+ <NUM>        1227 </NUM>
+ <MEAN>   2.71638131     </MEAN>
+ <STDV>  -250.671631     </STDV>
+ <BIAS>   3.29554677     </BIAS>
+ <RMSE>  0.496631950     </RMSE>
+ <CORR>   6.64785890E+29 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2992 </ID>
+ <NAME>MNWC_3h_cycl</NAME>
+ <NUM>        1227 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3.43578601     </BIAS>
+ <RMSE>  0.450516969     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   3.23471880     </MEAN_OBS>
+ <STDV_OBS>   3.23743939     </STDV_OBS>
+ <EXP>
+ <ID>        2967 </ID>
+ <NAME>MNWC_prod</NAME>
+ <NUM>        1227 </NUM>
+ <MEAN>   2.86226559     </MEAN>
+ <STDV>  -250.671631     </STDV>
+ <BIAS>   3.46178746     </BIAS>
+ <RMSE>  0.466316193     </RMSE>
+ <CORR>   6.64785890E+29 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2967 </ID>
+ <NAME>MNWC_3h_cycl</NAME>
+ <NUM>        1227 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3.58762574     </BIAS>
+ <RMSE>  0.425276399     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   3.65576434     </MEAN_OBS>
+ <STDV_OBS>   3.22431517     </STDV_OBS>
+ <EXP>
+ <ID>        2963 </ID>
+ <NAME>MNWC_prod</NAME>
+ <NUM>        1223 </NUM>
+ <MEAN>   3.26492214     </MEAN>
+ <STDV>  -250.671631     </STDV>
+ <BIAS>   2.85204935     </BIAS>
+ <RMSE>  0.590577364     </RMSE>
+ <CORR>   6.64785890E+29 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2963 </ID>
+ <NAME>MNWC_3h_cycl</NAME>
+ <NUM>        1223 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3.23022032     </BIAS>
+ <RMSE>  0.469642758     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   4.71067619     </MEAN_OBS>
+ <STDV_OBS>   3.28026724     </STDV_OBS>
+ <EXP>
+ <ID>        2944 </ID>
+ <NAME>MNWC_prod</NAME>
+ <NUM>        1227 </NUM>
+ <MEAN>   3.99347997     </MEAN>
+ <STDV>  -250.671631     </STDV>
+ <BIAS>   2.92063451     </BIAS>
+ <RMSE>  0.599662304     </RMSE>
+ <CORR>   6.64785890E+29 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2944 </ID>
+ <NAME>MNWC_3h_cycl</NAME>
+ <NUM>        1227 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.93489099     </BIAS>
+ <RMSE>  0.599910796     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   4.67401981     </MEAN_OBS>
+ <STDV_OBS>   3.25603199     </STDV_OBS>
+ <EXP>
+ <ID>        2958 </ID>
+ <NAME>MNWC_prod</NAME>
+ <NUM>        1224 </NUM>
+ <MEAN>   3.17401958     </MEAN>
+ <STDV>  -250.671631     </STDV>
+ <BIAS>   3.10075164     </BIAS>
+ <RMSE>  0.579711616     </RMSE>
+ <CORR>   6.64785890E+29 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2958 </ID>
+ <NAME>MNWC_3h_cycl</NAME>
+ <NUM>        1224 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3.10754919     </BIAS>
+ <RMSE>  0.570487678     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   4.15114403     </MEAN_OBS>
+ <STDV_OBS>   3.21023178     </STDV_OBS>
+ <EXP>
+ <ID>        2947 </ID>
+ <NAME>MNWC_prod</NAME>
+ <NUM>        1224 </NUM>
+ <MEAN>   3.18137264     </MEAN>
+ <STDV>  -250.671631     </STDV>
+ <BIAS>   2.91799140     </BIAS>
+ <RMSE>  0.615696669     </RMSE>
+ <CORR>   6.64785890E+29 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2947 </ID>
+ <NAME>MNWC_3h_cycl</NAME>
+ <NUM>        1224 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3.03114033     </BIAS>
+ <RMSE>  0.581316411     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   4.07107830     </MEAN_OBS>
+ <STDV_OBS>   3.41974735     </STDV_OBS>
+ <EXP>
+ <ID>        2913 </ID>
+ <NAME>MNWC_prod</NAME>
+ <NUM>        1224 </NUM>
+ <MEAN>   3.88071895     </MEAN>
+ <STDV>  -250.671631     </STDV>
+ <BIAS>   2.38741088     </BIAS>
+ <RMSE>  0.746203423     </RMSE>
+ <CORR>   6.64785890E+29 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2913 </ID>
+ <NAME>MNWC_3h_cycl</NAME>
+ <NUM>        1224 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.63533163     </BIAS>
+ <RMSE>  0.688835144     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   3.93561530     </MEAN_OBS>
+ <STDV_OBS>   3.19409466     </STDV_OBS>
+ <EXP>
+ <ID>        2917 </ID>
+ <NAME>MNWC_prod</NAME>
+ <NUM>        1227 </NUM>
+ <MEAN>   2.99347997     </MEAN>
+ <STDV>  -250.671631     </STDV>
+ <BIAS>   2.69595957     </BIAS>
+ <RMSE>  0.678732038     </RMSE>
+ <CORR>   6.64785890E+29 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2917 </ID>
+ <NAME>MNWC_3h_cycl</NAME>
+ <NUM>        1227 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.69880152     </BIAS>
+ <RMSE>  0.676455200     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   3.75794601     </MEAN_OBS>
+ <STDV_OBS>   3.30622292     </STDV_OBS>
+ <EXP>
+ <ID>        2897 </ID>
+ <NAME>MNWC_prod</NAME>
+ <NUM>        1227 </NUM>
+ <MEAN>   3.13528919     </MEAN>
+ <STDV>  -250.671631     </STDV>
+ <BIAS>   2.57750273     </BIAS>
+ <RMSE>  0.708923042     </RMSE>
+ <CORR>   6.64785890E+29 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2897 </ID>
+ <NAME>MNWC_3h_cycl</NAME>
+ <NUM>        1227 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.70594907     </BIAS>
+ <RMSE>  0.677741945     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   3.43339586     </MEAN_OBS>
+ <STDV_OBS>   3.16202903     </STDV_OBS>
+ <EXP>
+ <ID>        2873 </ID>
+ <NAME>MNWC_prod</NAME>
+ <NUM>         533 </NUM>
+ <MEAN>   3.14258909     </MEAN>
+ <STDV>  -250.671631     </STDV>
+ <BIAS>   2.88988829     </BIAS>
+ <RMSE>  0.611337543     </RMSE>
+ <CORR>   6.64785890E+29 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2873 </ID>
+ <NAME>MNWC_3h_cycl</NAME>
+ <NUM>         533 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.44025230     </BIAS>
+ <RMSE>  0.713830233     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   2.84249377     </MEAN_OBS>
+ <STDV_OBS>   3.28086305     </STDV_OBS>
+ <EXP>
+ <ID>        2862 </ID>
+ <NAME>MNWC_prod</NAME>
+ <NUM>        1219 </NUM>
+ <MEAN>   3.05988526     </MEAN>
+ <STDV>  -250.671631     </STDV>
+ <BIAS>   2.77338672     </BIAS>
+ <RMSE>  0.620328128     </RMSE>
+ <CORR>   6.64785890E+29 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2862 </ID>
+ <NAME>MNWC_3h_cycl</NAME>
+ <NUM>        1219 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.77120304     </BIAS>
+ <RMSE>  0.627777696     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   4.16136885     </MEAN_OBS>
+ <STDV_OBS>   3.36627531     </STDV_OBS>
+ <EXP>
+ <ID>        2807 </ID>
+ <NAME>MNWC_prod</NAME>
+ <NUM>        1227 </NUM>
+ <MEAN>   3.59005690     </MEAN>
+ <STDV>  -250.671631     </STDV>
+ <BIAS>   2.54672170     </BIAS>
+ <RMSE>  0.707546830     </RMSE>
+ <CORR>   6.64785890E+29 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2807 </ID>
+ <NAME>MNWC_3h_cycl</NAME>
+ <NUM>        1227 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.65182972     </BIAS>
+ <RMSE>  0.685881436     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   3.66148806     </MEAN_OBS>
+ <STDV_OBS>   3.18101954     </STDV_OBS>
+ <EXP>
+ <ID>        2739 </ID>
+ <NAME>MNWC_prod</NAME>
+ <NUM>        1223 </NUM>
+ <MEAN>   3.06214213     </MEAN>
+ <STDV>  -250.671631     </STDV>
+ <BIAS>   2.84652114     </BIAS>
+ <RMSE>  0.625002980     </RMSE>
+ <CORR>   6.64785890E+29 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2739 </ID>
+ <NAME>MNWC_3h_cycl</NAME>
+ <NUM>        1223 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.93116426     </BIAS>
+ <RMSE>  0.594056189     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   3.55600977     </MEAN_OBS>
+ <STDV_OBS>   3.31930375     </STDV_OBS>
+ <EXP>
+ <ID>        2799 </ID>
+ <NAME>MNWC_prod</NAME>
+ <NUM>        1223 </NUM>
+ <MEAN>   3.37203598     </MEAN>
+ <STDV>  -250.671631     </STDV>
+ <BIAS>   2.88729501     </BIAS>
+ <RMSE>  0.622363865     </RMSE>
+ <CORR>   6.64785890E+29 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2799 </ID>
+ <NAME>MNWC_3h_cycl</NAME>
+ <NUM>        1223 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.97077703     </BIAS>
+ <RMSE>  0.598805130     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   3.70655727     </MEAN_OBS>
+ <STDV_OBS>   3.42082167     </STDV_OBS>
+ <EXP>
+ <ID>        2714 </ID>
+ <NAME>MNWC_prod</NAME>
+ <NUM>        1220 </NUM>
+ <MEAN>   3.48606563     </MEAN>
+ <STDV>  -250.671631     </STDV>
+ <BIAS>   2.45096993     </BIAS>
+ <RMSE>  0.750934064     </RMSE>
+ <CORR>   6.64785890E+29 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2714 </ID>
+ <NAME>MNWC_3h_cycl</NAME>
+ <NUM>        1220 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.63079000     </BIAS>
+ <RMSE>  0.709554732     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   3.78032780     </MEAN_OBS>
+ <STDV_OBS>   3.38559675     </STDV_OBS>
+ <EXP>
+ <ID>        2804 </ID>
+ <NAME>MNWC_prod</NAME>
+ <NUM>        1220 </NUM>
+ <MEAN>   3.30901647     </MEAN>
+ <STDV>  -250.671631     </STDV>
+ <BIAS>   2.59690237     </BIAS>
+ <RMSE>  0.711636066     </RMSE>
+ <CORR>   6.64785890E+29 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2804 </ID>
+ <NAME>MNWC_3h_cycl</NAME>
+ <NUM>        1220 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.76393580     </BIAS>
+ <RMSE>  0.677683949     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   3.19278097     </MEAN_OBS>
+ <STDV_OBS>   3.36439180     </STDV_OBS>
+ <EXP>
+ <ID>        2847 </ID>
+ <NAME>MNWC_prod</NAME>
+ <NUM>        1219 </NUM>
+ <MEAN>   3.49384737     </MEAN>
+ <STDV>  -250.671631     </STDV>
+ <BIAS>   2.74535966     </BIAS>
+ <RMSE>  0.648608267     </RMSE>
+ <CORR>   6.64785890E+29 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2847 </ID>
+ <NAME>MNWC_3h_cycl</NAME>
+ <NUM>        1219 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.71726298     </BIAS>
+ <RMSE>  0.657565653     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   3.62021184     </MEAN_OBS>
+ <STDV_OBS>   3.40546632     </STDV_OBS>
+ <EXP>
+ <ID>        2813 </ID>
+ <NAME>MNWC_prod</NAME>
+ <NUM>        1227 </NUM>
+ <MEAN>   3.72942114     </MEAN>
+ <STDV>  -250.671631     </STDV>
+ <BIAS>   2.98779988     </BIAS>
+ <RMSE>  0.608238220     </RMSE>
+ <CORR>   6.64785890E+29 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2813 </ID>
+ <NAME>MNWC_3h_cycl</NAME>
+ <NUM>        1227 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3.03998971     </BIAS>
+ <RMSE>  0.602173805     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   4.31377316     </MEAN_OBS>
+ <STDV_OBS>   3.44613194     </STDV_OBS>
+ <EXP>
+ <ID>        2717 </ID>
+ <NAME>MNWC_prod</NAME>
+ <NUM>        1227 </NUM>
+ <MEAN>   3.96821499     </MEAN>
+ <STDV>  -250.671631     </STDV>
+ <BIAS>   2.50508714     </BIAS>
+ <RMSE>  0.729569793     </RMSE>
+ <CORR>   6.64785890E+29 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2717 </ID>
+ <NAME>MNWC_3h_cycl</NAME>
+ <NUM>        1227 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.55493569     </BIAS>
+ <RMSE>  0.721262634     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   4.80195570     </MEAN_OBS>
+ <STDV_OBS>   3.34649253     </STDV_OBS>
+ <EXP>
+ <ID>        2726 </ID>
+ <NAME>MNWC_prod</NAME>
+ <NUM>        1227 </NUM>
+ <MEAN>   4.33659315     </MEAN>
+ <STDV>  -250.671631     </STDV>
+ <BIAS>   2.60438943     </BIAS>
+ <RMSE>  0.707592428     </RMSE>
+ <CORR>   6.64785890E+29 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2726 </ID>
+ <NAME>MNWC_3h_cycl</NAME>
+ <NUM>        1227 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.62165737     </BIAS>
+ <RMSE>  0.699872613     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   4.46405220     </MEAN_OBS>
+ <STDV_OBS>   3.39906573     </STDV_OBS>
+ <EXP>
+ <ID>        2857 </ID>
+ <NAME>MNWC_prod</NAME>
+ <NUM>        1224 </NUM>
+ <MEAN>   4.11029434     </MEAN>
+ <STDV>  -250.671631     </STDV>
+ <BIAS>   2.63266444     </BIAS>
+ <RMSE>  0.705895364     </RMSE>
+ <CORR>   6.64785890E+29 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2857 </ID>
+ <NAME>MNWC_3h_cycl</NAME>
+ <NUM>        1224 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.61090970     </BIAS>
+ <RMSE>  0.704836965     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   4.65551043     </MEAN_OBS>
+ <STDV_OBS>   3.37684560     </STDV_OBS>
+ <EXP>
+ <ID>        2761 </ID>
+ <NAME>MNWC_prod</NAME>
+ <NUM>        1225 </NUM>
+ <MEAN>   3.70775509     </MEAN>
+ <STDV>  -250.671631     </STDV>
+ <BIAS>   3.00503349     </BIAS>
+ <RMSE>  0.615734518     </RMSE>
+ <CORR>   6.64785890E+29 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2761 </ID>
+ <NAME>MNWC_3h_cycl</NAME>
+ <NUM>        1225 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.91801667     </BIAS>
+ <RMSE>  0.634544313     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   4.62428665     </MEAN_OBS>
+ <STDV_OBS>   3.33429861     </STDV_OBS>
+ <EXP>
+ <ID>        2937 </ID>
+ <NAME>MNWC_prod</NAME>
+ <NUM>        1227 </NUM>
+ <MEAN>   4.02689457     </MEAN>
+ <STDV>  -250.671631     </STDV>
+ <BIAS>   2.88913631     </BIAS>
+ <RMSE>  0.609017849     </RMSE>
+ <CORR>   6.64785890E+29 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2937 </ID>
+ <NAME>MNWC_3h_cycl</NAME>
+ <NUM>        1227 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.93242431     </BIAS>
+ <RMSE>  0.596475780     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   4.67728758     </MEAN_OBS>
+ <STDV_OBS>   3.29473066     </STDV_OBS>
+ <EXP>
+ <ID>        2763 </ID>
+ <NAME>MNWC_prod</NAME>
+ <NUM>        1224 </NUM>
+ <MEAN>   3.99509811     </MEAN>
+ <STDV>  -250.671631     </STDV>
+ <BIAS>   2.78927064     </BIAS>
+ <RMSE>  0.626213849     </RMSE>
+ <CORR>   6.64785890E+29 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2763 </ID>
+ <NAME>MNWC_3h_cycl</NAME>
+ <NUM>        1224 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.86278987     </BIAS>
+ <RMSE>  0.615769982     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   4.52322721     </MEAN_OBS>
+ <STDV_OBS>   3.25507188     </STDV_OBS>
+ <EXP>
+ <ID>        2959 </ID>
+ <NAME>MNWC_prod</NAME>
+ <NUM>        1227 </NUM>
+ <MEAN>   3.16381407     </MEAN>
+ <STDV>  -250.671631     </STDV>
+ <BIAS>   3.04462934     </BIAS>
+ <RMSE>  0.598304987     </RMSE>
+ <CORR>   6.64785890E+29 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2959 </ID>
+ <NAME>MNWC_3h_cycl</NAME>
+ <NUM>        1227 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3.04040956     </BIAS>
+ <RMSE>  0.591121435     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   3.98935294     </MEAN_OBS>
+ <STDV_OBS>   3.46667218     </STDV_OBS>
+ <EXP>
+ <ID>        2931 </ID>
+ <NAME>MNWC_prod</NAME>
+ <NUM>        1221 </NUM>
+ <MEAN>   3.77968884     </MEAN>
+ <STDV>  -250.671631     </STDV>
+ <BIAS>   2.55068827     </BIAS>
+ <RMSE>  0.719176829     </RMSE>
+ <CORR>   6.64785890E+29 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2931 </ID>
+ <NAME>MNWC_3h_cycl</NAME>
+ <NUM>        1221 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.83483744     </BIAS>
+ <RMSE>  0.654711783     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   3.79054594     </MEAN_OBS>
+ <STDV_OBS>   3.34492278     </STDV_OBS>
+ <EXP>
+ <ID>        2753 </ID>
+ <NAME>MNWC_prod</NAME>
+ <NUM>        1227 </NUM>
+ <MEAN>   4.06927443     </MEAN>
+ <STDV>  -250.671631     </STDV>
+ <BIAS>   2.72372603     </BIAS>
+ <RMSE>  0.661000371     </RMSE>
+ <CORR>   6.64785890E+29 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2753 </ID>
+ <NAME>MNWC_3h_cycl</NAME>
+ <NUM>        1227 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.79723263     </BIAS>
+ <RMSE>  0.637445033     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   3.46440673     </MEAN_OBS>
+ <STDV_OBS>   3.22491765     </STDV_OBS>
+ <EXP>
+ <ID>        2850 </ID>
+ <NAME>MNWC_prod</NAME>
+ <NUM>        1180 </NUM>
+ <MEAN>   3.06694913     </MEAN>
+ <STDV>  -250.671631     </STDV>
+ <BIAS>   2.98017478     </BIAS>
+ <RMSE>  0.603244245     </RMSE>
+ <CORR>   6.64785890E+29 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2850 </ID>
+ <NAME>MNWC_3h_cycl</NAME>
+ <NUM>        1180 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3.09709978     </BIAS>
+ <RMSE>  0.566213727     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   4.46210241     </MEAN_OBS>
+ <STDV_OBS>   3.34319091     </STDV_OBS>
+ <EXP>
+ <ID>        2778 </ID>
+ <NAME>MNWC_prod</NAME>
+ <NUM>        1227 </NUM>
+ <MEAN>   3.46128750     </MEAN>
+ <STDV>  -250.671631     </STDV>
+ <BIAS>   3.32272387     </BIAS>
+ <RMSE>  0.511907458     </RMSE>
+ <CORR>   6.64785890E+29 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2778 </ID>
+ <NAME>MNWC_3h_cycl</NAME>
+ <NUM>        1227 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3.20464706     </BIAS>
+ <RMSE>  0.551272452     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   4.13610411     </MEAN_OBS>
+ <STDV_OBS>   3.41477299     </STDV_OBS>
+ <EXP>
+ <ID>        2787 </ID>
+ <NAME>MNWC_prod</NAME>
+ <NUM>        1227 </NUM>
+ <MEAN>   3.99673986     </MEAN>
+ <STDV>  -250.671631     </STDV>
+ <BIAS>   2.37748027     </BIAS>
+ <RMSE>  0.762929499     </RMSE>
+ <CORR>   6.64785890E+29 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2787 </ID>
+ <NAME>MNWC_3h_cycl</NAME>
+ <NUM>        1227 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.54785776     </BIAS>
+ <RMSE>  0.725609958     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   4.13039923     </MEAN_OBS>
+ <STDV_OBS>   3.36036706     </STDV_OBS>
+ <EXP>
+ <ID>        2928 </ID>
+ <NAME>MNWC_prod</NAME>
+ <NUM>        1227 </NUM>
+ <MEAN>   3.16381407     </MEAN>
+ <STDV>  -250.671631     </STDV>
+ <BIAS>   2.70158410     </BIAS>
+ <RMSE>  0.695321083     </RMSE>
+ <CORR>   6.64785890E+29 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2928 </ID>
+ <NAME>MNWC_3h_cycl</NAME>
+ <NUM>        1227 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.81334996     </BIAS>
+ <RMSE>  0.663476348     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   3.81862760     </MEAN_OBS>
+ <STDV_OBS>   3.45259070     </STDV_OBS>
+ <EXP>
+ <ID>        2738 </ID>
+ <NAME>MNWC_prod</NAME>
+ <NUM>        1224 </NUM>
+ <MEAN>   3.71650338     </MEAN>
+ <STDV>  -250.671631     </STDV>
+ <BIAS>   2.62288952     </BIAS>
+ <RMSE>  0.697810471     </RMSE>
+ <CORR>   6.64785890E+29 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2738 </ID>
+ <NAME>MNWC_3h_cycl</NAME>
+ <NUM>        1224 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.58455610     </BIAS>
+ <RMSE>  0.707238853     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   4.49388742     </MEAN_OBS>
+ <STDV_OBS>   3.06311989     </STDV_OBS>
+ <EXP>
+ <ID>        2983 </ID>
+ <NAME>MNWC_prod</NAME>
+ <NUM>        1227 </NUM>
+ <MEAN>   3.18011403     </MEAN>
+ <STDV>  -250.671631     </STDV>
+ <BIAS>   3.30300975     </BIAS>
+ <RMSE>  0.448607415     </RMSE>
+ <CORR>   6.64785890E+29 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2983 </ID>
+ <NAME>MNWC_3h_cycl</NAME>
+ <NUM>        1227 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3.38920522     </BIAS>
+ <RMSE>  0.392976224     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   4.19497919     </MEAN_OBS>
+ <STDV_OBS>   3.08381414     </STDV_OBS>
+ <EXP>
+ <ID>        2774 </ID>
+ <NAME>MNWC_prod</NAME>
+ <NUM>        1195 </NUM>
+ <MEAN>   3.11631799     </MEAN>
+ <STDV>  -250.671631     </STDV>
+ <BIAS>   3.45662594     </BIAS>
+ <RMSE>  0.431257069     </RMSE>
+ <CORR>   6.64785890E+29 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2774 </ID>
+ <NAME>MNWC_3h_cycl</NAME>
+ <NUM>        1195 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3.54393888     </BIAS>
+ <RMSE>  0.391424686     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   4.45952559     </MEAN_OBS>
+ <STDV_OBS>   3.09695601     </STDV_OBS>
+ <EXP>
+ <ID>        2986 </ID>
+ <NAME>MNWC_prod</NAME>
+ <NUM>        1223 </NUM>
+ <MEAN>   3.13900232     </MEAN>
+ <STDV>  -250.671631     </STDV>
+ <BIAS>   3.47126532     </BIAS>
+ <RMSE>  0.406487077     </RMSE>
+ <CORR>   6.64785890E+29 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2986 </ID>
+ <NAME>MNWC_3h_cycl</NAME>
+ <NUM>        1223 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3.53216195     </BIAS>
+ <RMSE>  0.377305180     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   4.34637308     </MEAN_OBS>
+ <STDV_OBS>   3.03452325     </STDV_OBS>
+ <EXP>
+ <ID>        2985 </ID>
+ <NAME>MNWC_prod</NAME>
+ <NUM>        1227 </NUM>
+ <MEAN>   2.83455586     </MEAN>
+ <STDV>  -250.671631     </STDV>
+ <BIAS>   3.46966553     </BIAS>
+ <RMSE>  0.414810121     </RMSE>
+ <CORR>   6.64785890E+29 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2985 </ID>
+ <NAME>MNWC_3h_cycl</NAME>
+ <NUM>        1227 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3.72316027     </BIAS>
+ <RMSE>  0.324209958     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   4.47025251     </MEAN_OBS>
+ <STDV_OBS>   3.10494947     </STDV_OBS>
+ <EXP>
+ <ID>        2829 </ID>
+ <NAME>MNWC_prod</NAME>
+ <NUM>        1227 </NUM>
+ <MEAN>   3.18826389     </MEAN>
+ <STDV>  -250.671631     </STDV>
+ <BIAS>   3.32478023     </BIAS>
+ <RMSE>  0.448781788     </RMSE>
+ <CORR>   6.64785890E+29 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2829 </ID>
+ <NAME>MNWC_3h_cycl</NAME>
+ <NUM>        1227 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3.46038604     </BIAS>
+ <RMSE>  0.382241309     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   4.14343929     </MEAN_OBS>
+ <STDV_OBS>   3.18919253     </STDV_OBS>
+ <EXP>
+ <ID>        2768 </ID>
+ <NAME>MNWC_prod</NAME>
+ <NUM>        1227 </NUM>
+ <MEAN>   3.25916862     </MEAN>
+ <STDV>  -250.671631     </STDV>
+ <BIAS>   3.01442599     </BIAS>
+ <RMSE>  0.581485391     </RMSE>
+ <CORR>   6.64785890E+29 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2768 </ID>
+ <NAME>MNWC_3h_cycl</NAME>
+ <NUM>        1227 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.99382234     </BIAS>
+ <RMSE>  0.587743938     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   4.77023697     </MEAN_OBS>
+ <STDV_OBS>   3.30686331     </STDV_OBS>
+ <EXP>
+ <ID>        2770 </ID>
+ <NAME>MNWC_prod</NAME>
+ <NUM>        1223 </NUM>
+ <MEAN>   4.00245285     </MEAN>
+ <STDV>  -250.671631     </STDV>
+ <BIAS>   2.62480044     </BIAS>
+ <RMSE>  0.677092314     </RMSE>
+ <CORR>   6.64785890E+29 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2770 </ID>
+ <NAME>MNWC_3h_cycl</NAME>
+ <NUM>        1223 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.83622885     </BIAS>
+ <RMSE>  0.627331316     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   4.21294022     </MEAN_OBS>
+ <STDV_OBS>   3.22089434     </STDV_OBS>
+ <EXP>
+ <ID>        2771 </ID>
+ <NAME>MNWC_prod</NAME>
+ <NUM>        1221 </NUM>
+ <MEAN>   3.23341537     </MEAN>
+ <STDV>  -250.671631     </STDV>
+ <BIAS>   2.68451667     </BIAS>
+ <RMSE>  0.651979804     </RMSE>
+ <CORR>   6.64785890E+29 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2771 </ID>
+ <NAME>MNWC_3h_cycl</NAME>
+ <NUM>        1221 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.87929273     </BIAS>
+ <RMSE>  0.610124409     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   4.18196726     </MEAN_OBS>
+ <STDV_OBS>   3.27694392     </STDV_OBS>
+ <EXP>
+ <ID>        2798 </ID>
+ <NAME>MNWC_prod</NAME>
+ <NUM>        1220 </NUM>
+ <MEAN>   3.61065578     </MEAN>
+ <STDV>  -250.671631     </STDV>
+ <BIAS>   2.76763105     </BIAS>
+ <RMSE>  0.656070292     </RMSE>
+ <CORR>   6.64785890E+29 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2798 </ID>
+ <NAME>MNWC_3h_cycl</NAME>
+ <NUM>        1220 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.81401587     </BIAS>
+ <RMSE>  0.642540097     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   4.19917345     </MEAN_OBS>
+ <STDV_OBS>   3.34392238     </STDV_OBS>
+ <EXP>
+ <ID>        2702 </ID>
+ <NAME>MNWC_prod</NAME>
+ <NUM>        1210 </NUM>
+ <MEAN>   3.89173555     </MEAN>
+ <STDV>  -250.671631     </STDV>
+ <BIAS>   2.54207873     </BIAS>
+ <RMSE>  0.715864301     </RMSE>
+ <CORR>   6.64785890E+29 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2702 </ID>
+ <NAME>MNWC_3h_cycl</NAME>
+ <NUM>        1210 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.67767525     </BIAS>
+ <RMSE>  0.682003021     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   3.91198039     </MEAN_OBS>
+ <STDV_OBS>   3.24324322     </STDV_OBS>
+ <EXP>
+ <ID>        2718 </ID>
+ <NAME>MNWC_prod</NAME>
+ <NUM>        1227 </NUM>
+ <MEAN>   3.19396901     </MEAN>
+ <STDV>  -250.671631     </STDV>
+ <BIAS>   2.94357991     </BIAS>
+ <RMSE>  0.620837212     </RMSE>
+ <CORR>   6.64785890E+29 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2718 </ID>
+ <NAME>MNWC_3h_cycl</NAME>
+ <NUM>        1227 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3.07001066     </BIAS>
+ <RMSE>  0.571561158     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   4.36072302     </MEAN_OBS>
+ <STDV_OBS>   3.33903193     </STDV_OBS>
+ <EXP>
+ <ID>        2970 </ID>
+ <NAME>MNWC_prod</NAME>
+ <NUM>        1217 </NUM>
+ <MEAN>   3.63106012     </MEAN>
+ <STDV>  -250.671631     </STDV>
+ <BIAS>   2.92213011     </BIAS>
+ <RMSE>  0.611712873     </RMSE>
+ <CORR>   6.64785890E+29 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2970 </ID>
+ <NAME>MNWC_3h_cycl</NAME>
+ <NUM>        1217 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3.15526199     </BIAS>
+ <RMSE>  0.540246427     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   3.44700074     </MEAN_OBS>
+ <STDV_OBS>   3.16045046     </STDV_OBS>
+ <EXP>
+ <ID>        2757 </ID>
+ <NAME>MNWC_prod</NAME>
+ <NUM>        1217 </NUM>
+ <MEAN>   3.22760892     </MEAN>
+ <STDV>  -250.671631     </STDV>
+ <BIAS>   3.21540451     </BIAS>
+ <RMSE>  0.476310611     </RMSE>
+ <CORR>   6.64785890E+29 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2757 </ID>
+ <NAME>MNWC_3h_cycl</NAME>
+ <NUM>        1217 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3.26461363     </BIAS>
+ <RMSE>  0.460596591     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   4.41906309     </MEAN_OBS>
+ <STDV_OBS>   3.20957494     </STDV_OBS>
+ <EXP>
+ <ID>        2777 </ID>
+ <NAME>MNWC_prod</NAME>
+ <NUM>        1217 </NUM>
+ <MEAN>   3.31470823     </MEAN>
+ <STDV>  -250.671631     </STDV>
+ <BIAS>   3.37639284     </BIAS>
+ <RMSE>  0.468535483     </RMSE>
+ <CORR>   6.64785890E+29 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2777 </ID>
+ <NAME>MNWC_3h_cycl</NAME>
+ <NUM>        1217 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3.29509330     </BIAS>
+ <RMSE>  0.487936854     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   4.20953178     </MEAN_OBS>
+ <STDV_OBS>   2.90662169     </STDV_OBS>
+ <EXP>
+ <ID>        2795 </ID>
+ <NAME>MNWC_prod</NAME>
+ <NUM>        1217 </NUM>
+ <MEAN>   2.56368113     </MEAN>
+ <STDV>  -250.671631     </STDV>
+ <BIAS>   3.50334120     </BIAS>
+ <RMSE>  0.397345990     </RMSE>
+ <CORR>   6.64785890E+29 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2795 </ID>
+ <NAME>MNWC_3h_cycl</NAME>
+ <NUM>        1217 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3.62751746     </BIAS>
+ <RMSE>  0.331461132     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   4.07559586     </MEAN_OBS>
+ <STDV_OBS>   2.99010563     </STDV_OBS>
+ <EXP>
+ <ID>        2998 </ID>
+ <NAME>MNWC_prod</NAME>
+ <NUM>        1217 </NUM>
+ <MEAN>   2.69926047     </MEAN>
+ <STDV>  -250.671631     </STDV>
+ <BIAS>   3.48119354     </BIAS>
+ <RMSE>  0.378366619     </RMSE>
+ <CORR>   6.64785890E+29 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2998 </ID>
+ <NAME>MNWC_3h_cycl</NAME>
+ <NUM>        1217 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3.69610143     </BIAS>
+ <RMSE>  0.299302727     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   3.88496304     </MEAN_OBS>
+ <STDV_OBS>   2.97294140     </STDV_OBS>
+ <EXP>
+ <ID>        2759 </ID>
+ <NAME>MNWC_prod</NAME>
+ <NUM>        1217 </NUM>
+ <MEAN>   2.63681197     </MEAN>
+ <STDV>  -250.671631     </STDV>
+ <BIAS>   3.55352330     </BIAS>
+ <RMSE>  0.388179362     </RMSE>
+ <CORR>   6.64785890E+29 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2759 </ID>
+ <NAME>MNWC_3h_cycl</NAME>
+ <NUM>        1217 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3.57626820     </BIAS>
+ <RMSE>  0.356954068     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   4.33278561     </MEAN_OBS>
+ <STDV_OBS>   3.23364019     </STDV_OBS>
+ <EXP>
+ <ID>        2966 </ID>
+ <NAME>MNWC_prod</NAME>
+ <NUM>        1217 </NUM>
+ <MEAN>   3.17666388     </MEAN>
+ <STDV>  -250.671631     </STDV>
+ <BIAS>   3.10319138     </BIAS>
+ <RMSE>  0.575931013     </RMSE>
+ <CORR>   6.64785890E+29 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2966 </ID>
+ <NAME>MNWC_3h_cycl</NAME>
+ <NUM>        1217 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.92052174     </BIAS>
+ <RMSE>  0.622724771     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   3.76499581     </MEAN_OBS>
+ <STDV_OBS>   3.43426704     </STDV_OBS>
+ <EXP>
+ <ID>        2751 </ID>
+ <NAME>MNWC_prod</NAME>
+ <NUM>        1217 </NUM>
+ <MEAN>   3.67789650     </MEAN>
+ <STDV>  -250.671631     </STDV>
+ <BIAS>   2.61935091     </BIAS>
+ <RMSE>  0.699778557     </RMSE>
+ <CORR>   6.64785890E+29 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2751 </ID>
+ <NAME>MNWC_3h_cycl</NAME>
+ <NUM>        1217 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.61447310     </BIAS>
+ <RMSE>  0.698585808     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   5.38398361     </MEAN_OBS>
+ <STDV_OBS>   3.36641502     </STDV_OBS>
+ <EXP>
+ <ID>        2942 </ID>
+ <NAME>MNWC_prod</NAME>
+ <NUM>         487 </NUM>
+ <MEAN>   4.05133486     </MEAN>
+ <STDV>  -250.671631     </STDV>
+ <BIAS>   2.66972351     </BIAS>
+ <RMSE>  0.626136303     </RMSE>
+ <CORR>   6.64785890E+29 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2942 </ID>
+ <NAME>MNWC_3h_cycl</NAME>
+ <NUM>         487 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.73095846     </BIAS>
+ <RMSE>  0.608662724     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   4.86113405     </MEAN_OBS>
+ <STDV_OBS>   3.36145782     </STDV_OBS>
+ <EXP>
+ <ID>        2948 </ID>
+ <NAME>MNWC_prod</NAME>
+ <NUM>        1217 </NUM>
+ <MEAN>   3.45768285     </MEAN>
+ <STDV>  -250.671631     </STDV>
+ <BIAS>   3.02535510     </BIAS>
+ <RMSE>  0.578284800     </RMSE>
+ <CORR>   6.64785890E+29 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2948 </ID>
+ <NAME>MNWC_3h_cycl</NAME>
+ <NUM>        1217 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3.14180136     </BIAS>
+ <RMSE>  0.551085830     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   4.15283489     </MEAN_OBS>
+ <STDV_OBS>   3.30423212     </STDV_OBS>
+ <EXP>
+ <ID>        2929 </ID>
+ <NAME>MNWC_prod</NAME>
+ <NUM>        1217 </NUM>
+ <MEAN>   3.13064909     </MEAN>
+ <STDV>  -250.671631     </STDV>
+ <BIAS>   2.60855007     </BIAS>
+ <RMSE>  0.707748115     </RMSE>
+ <CORR>   6.64785890E+29 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2929 </ID>
+ <NAME>MNWC_3h_cycl</NAME>
+ <NUM>        1217 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.74593902     </BIAS>
+ <RMSE>  0.669345737     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   3.56121612     </MEAN_OBS>
+ <STDV_OBS>   3.35697508     </STDV_OBS>
+ <EXP>
+ <ID>        2721 </ID>
+ <NAME>MNWC_prod</NAME>
+ <NUM>        1217 </NUM>
+ <MEAN>   3.41495490     </MEAN>
+ <STDV>  -250.671631     </STDV>
+ <BIAS>   2.34297252     </BIAS>
+ <RMSE>  0.760877967     </RMSE>
+ <CORR>   6.64785890E+29 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2721 </ID>
+ <NAME>MNWC_3h_cycl</NAME>
+ <NUM>        1217 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.53455424     </BIAS>
+ <RMSE>  0.714788735     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   4.13557911     </MEAN_OBS>
+ <STDV_OBS>   3.43113112     </STDV_OBS>
+ <EXP>
+ <ID>        2903 </ID>
+ <NAME>MNWC_prod</NAME>
+ <NUM>        1217 </NUM>
+ <MEAN>   3.74774027     </MEAN>
+ <STDV>  -250.671631     </STDV>
+ <BIAS>   2.55637431     </BIAS>
+ <RMSE>  0.720764160     </RMSE>
+ <CORR>   6.64785890E+29 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2903 </ID>
+ <NAME>MNWC_3h_cycl</NAME>
+ <NUM>        1217 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.55151367     </BIAS>
+ <RMSE>  0.722976327     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   3.37469196     </MEAN_OBS>
+ <STDV_OBS>   3.28784847     </STDV_OBS>
+ <EXP>
+ <ID>        2834 </ID>
+ <NAME>MNWC_prod</NAME>
+ <NUM>        1217 </NUM>
+ <MEAN>   3.23829103     </MEAN>
+ <STDV>  -250.671631     </STDV>
+ <BIAS>   2.62042499     </BIAS>
+ <RMSE>  0.691783130     </RMSE>
+ <CORR>   6.64785890E+29 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2834 </ID>
+ <NAME>MNWC_3h_cycl</NAME>
+ <NUM>        1217 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.76367998     </BIAS>
+ <RMSE>  0.648258567     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   3.69679546     </MEAN_OBS>
+ <STDV_OBS>   3.32146859     </STDV_OBS>
+ <EXP>
+ <ID>        2864 </ID>
+ <NAME>MNWC_prod</NAME>
+ <NUM>        1217 </NUM>
+ <MEAN>   3.29498768     </MEAN>
+ <STDV>  -250.671631     </STDV>
+ <BIAS>   3.05070758     </BIAS>
+ <RMSE>  0.591427028     </RMSE>
+ <CORR>   6.64785890E+29 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2864 </ID>
+ <NAME>MNWC_3h_cycl</NAME>
+ <NUM>        1217 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3.03126907     </BIAS>
+ <RMSE>  0.601515830     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   3.64735103     </MEAN_OBS>
+ <STDV_OBS>   3.42917418     </STDV_OBS>
+ <EXP>
+ <ID>        2881 </ID>
+ <NAME>MNWC_prod</NAME>
+ <NUM>        1208 </NUM>
+ <MEAN>   3.52235103     </MEAN>
+ <STDV>  -250.671631     </STDV>
+ <BIAS>   2.78600574     </BIAS>
+ <RMSE>  0.654818892     </RMSE>
+ <CORR>   6.64785890E+29 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2881 </ID>
+ <NAME>MNWC_3h_cycl</NAME>
+ <NUM>        1208 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.77556229     </BIAS>
+ <RMSE>  0.663772583     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   3.42399335     </MEAN_OBS>
+ <STDV_OBS>   3.38533068     </STDV_OBS>
+ <EXP>
+ <ID>        2869 </ID>
+ <NAME>MNWC_prod</NAME>
+ <NUM>        1217 </NUM>
+ <MEAN>   3.07066560     </MEAN>
+ <STDV>  -250.671631     </STDV>
+ <BIAS>   2.47113442     </BIAS>
+ <RMSE>  0.726461530     </RMSE>
+ <CORR>   6.64785890E+29 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2869 </ID>
+ <NAME>MNWC_3h_cycl</NAME>
+ <NUM>        1217 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.55748510     </BIAS>
+ <RMSE>  0.719129086     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   4.23418236     </MEAN_OBS>
+ <STDV_OBS>   3.43167973     </STDV_OBS>
+ <EXP>
+ <ID>        2720 </ID>
+ <NAME>MNWC_prod</NAME>
+ <NUM>        1217 </NUM>
+ <MEAN>   3.90550542     </MEAN>
+ <STDV>  -250.671631     </STDV>
+ <BIAS>   2.38742471     </BIAS>
+ <RMSE>  0.754691362     </RMSE>
+ <CORR>   6.64785890E+29 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2720 </ID>
+ <NAME>MNWC_3h_cycl</NAME>
+ <NUM>        1217 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.68421984     </BIAS>
+ <RMSE>  0.693284512     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   3.63352513     </MEAN_OBS>
+ <STDV_OBS>   3.40826726     </STDV_OBS>
+ <EXP>
+ <ID>        2816 </ID>
+ <NAME>MNWC_prod</NAME>
+ <NUM>        1217 </NUM>
+ <MEAN>   3.81511927     </MEAN>
+ <STDV>  -250.671631     </STDV>
+ <BIAS>   2.26475406     </BIAS>
+ <RMSE>  0.773227334     </RMSE>
+ <CORR>   6.64785890E+29 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2816 </ID>
+ <NAME>MNWC_3h_cycl</NAME>
+ <NUM>        1217 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.41551876     </BIAS>
+ <RMSE>  0.742443085     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   4.16942930     </MEAN_OBS>
+ <STDV_OBS>   3.05358195     </STDV_OBS>
+ <EXP>
+ <ID>        2505 </ID>
+ <NAME>MNWC_prod</NAME>
+ <NUM>         543 </NUM>
+ <MEAN>   3.44014740     </MEAN>
+ <STDV>  -250.671631     </STDV>
+ <BIAS>   3.80653596     </BIAS>
+ <RMSE>  0.147872597     </RMSE>
+ <CORR>   6.64785890E+29 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2505 </ID>
+ <NAME>MNWC_3h_cycl</NAME>
+ <NUM>         543 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3.79764509     </BIAS>
+ <RMSE>  0.149348840     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   5.24273252     </MEAN_OBS>
+ <STDV_OBS>   3.17880535     </STDV_OBS>
+ <EXP>
+ <ID>        2429 </ID>
+ <NAME>MNWC_prod</NAME>
+ <NUM>         688 </NUM>
+ <MEAN>   4.50000000     </MEAN>
+ <STDV>  -250.671631     </STDV>
+ <BIAS>   3.49011111     </BIAS>
+ <RMSE>  0.248093605     </RMSE>
+ <CORR>   6.64785890E+29 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2429 </ID>
+ <NAME>MNWC_3h_cycl</NAME>
+ <NUM>         688 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3.73999882     </BIAS>
+ <RMSE>  0.172437400     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   5.96811628     </MEAN_OBS>
+ <STDV_OBS>   3.17274475     </STDV_OBS>
+ <EXP>
+ <ID>        2482 </ID>
+ <NAME>MNWC_prod</NAME>
+ <NUM>         690 </NUM>
+ <MEAN>   4.29565239     </MEAN>
+ <STDV>  -250.671631     </STDV>
+ <BIAS>   3.04087019     </BIAS>
+ <RMSE>  0.435053587     </RMSE>
+ <CORR>   6.64785890E+29 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2482 </ID>
+ <NAME>MNWC_3h_cycl</NAME>
+ <NUM>         690 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3.23163199     </BIAS>
+ <RMSE>  0.380792677     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   5.84835482     </MEAN_OBS>
+ <STDV_OBS>   3.31847811     </STDV_OBS>
+ <EXP>
+ <ID>        2423 </ID>
+ <NAME>MNWC_prod</NAME>
+ <NUM>         699 </NUM>
+ <MEAN>   4.10300446     </MEAN>
+ <STDV>  -250.671631     </STDV>
+ <BIAS>   3.34680867     </BIAS>
+ <RMSE>  0.361432195     </RMSE>
+ <CORR>   6.64785890E+29 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2423 </ID>
+ <NAME>MNWC_3h_cycl</NAME>
+ <NUM>         699 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3.42018604     </BIAS>
+ <RMSE>  0.332987130     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   4.78045988     </MEAN_OBS>
+ <STDV_OBS>   3.26188946     </STDV_OBS>
+ <EXP>
+ <ID>        2456 </ID>
+ <NAME>MNWC_prod</NAME>
+ <NUM>         870 </NUM>
+ <MEAN>   4.17586184     </MEAN>
+ <STDV>  -250.671631     </STDV>
+ <BIAS>   3.11198997     </BIAS>
+ <RMSE>  0.467944741     </RMSE>
+ <CORR>   6.64785890E+29 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2456 </ID>
+ <NAME>MNWC_3h_cycl</NAME>
+ <NUM>         870 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3.30551291     </BIAS>
+ <RMSE>  0.408623397     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   5.63502073     </MEAN_OBS>
+ <STDV_OBS>   3.20854902     </STDV_OBS>
+ <EXP>
+ <ID>        2563 </ID>
+ <NAME>MNWC_prod</NAME>
+ <NUM>         474 </NUM>
+ <MEAN>   3.27004194     </MEAN>
+ <STDV>  -250.671631     </STDV>
+ <BIAS>   3.10901189     </BIAS>
+ <RMSE>  0.466309816     </RMSE>
+ <CORR>   6.64785890E+29 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2563 </ID>
+ <NAME>MNWC_3h_cycl</NAME>
+ <NUM>         474 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3.10160518     </BIAS>
+ <RMSE>  0.455947399     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   6.47521162     </MEAN_OBS>
+ <STDV_OBS>   3.26399589     </STDV_OBS>
+ <EXP>
+ <ID>        2231 </ID>
+ <NAME>MNWC_prod</NAME>
+ <NUM>         827 </NUM>
+ <MEAN>   4.28899670     </MEAN>
+ <STDV>  -250.671631     </STDV>
+ <BIAS>   3.13619852     </BIAS>
+ <RMSE>  0.406248838     </RMSE>
+ <CORR>   6.64785890E+29 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2231 </ID>
+ <NAME>MNWC_3h_cycl</NAME>
+ <NUM>         827 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.97781491     </BIAS>
+ <RMSE>  0.471514821     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   5.43074942     </MEAN_OBS>
+ <STDV_OBS>   3.26792479     </STDV_OBS>
+ <EXP>
+ <ID>        2622 </ID>
+ <NAME>MNWC_prod</NAME>
+ <NUM>         787 </NUM>
+ <MEAN>   4.08005047     </MEAN>
+ <STDV>  -250.671631     </STDV>
+ <BIAS>   3.39741850     </BIAS>
+ <RMSE>  0.347599536     </RMSE>
+ <CORR>   6.64785890E+29 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2622 </ID>
+ <NAME>MNWC_3h_cycl</NAME>
+ <NUM>         787 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3.25088334     </BIAS>
+ <RMSE>  0.403980821     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   5.26981449     </MEAN_OBS>
+ <STDV_OBS>   3.17757940     </STDV_OBS>
+ <EXP>
+ <ID>        2403 </ID>
+ <NAME>MNWC_prod</NAME>
+ <NUM>         593 </NUM>
+ <MEAN>   3.88701534     </MEAN>
+ <STDV>  -250.671631     </STDV>
+ <BIAS>   3.60669279     </BIAS>
+ <RMSE>  0.269386679     </RMSE>
+ <CORR>   6.64785890E+29 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2403 </ID>
+ <NAME>MNWC_3h_cycl</NAME>
+ <NUM>         593 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3.54686880     </BIAS>
+ <RMSE>  0.275913805     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   6.33993006     </MEAN_OBS>
+ <STDV_OBS>   3.11763191     </STDV_OBS>
+ <EXP>
+ <ID>        2236 </ID>
+ <NAME>MNWC_prod</NAME>
+ <NUM>         859 </NUM>
+ <MEAN>   4.78812599     </MEAN>
+ <STDV>  -250.671631     </STDV>
+ <BIAS>   2.92285895     </BIAS>
+ <RMSE>  0.440780133     </RMSE>
+ <CORR>   6.64785890E+29 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2236 </ID>
+ <NAME>MNWC_3h_cycl</NAME>
+ <NUM>         859 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.93238616     </BIAS>
+ <RMSE>  0.438759327     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   6.48812675     </MEAN_OBS>
+ <STDV_OBS>   3.17356730     </STDV_OBS>
+ <EXP>
+ <ID>        2441 </ID>
+ <NAME>MNWC_prod</NAME>
+ <NUM>         758 </NUM>
+ <MEAN>   4.70976257     </MEAN>
+ <STDV>  -250.671631     </STDV>
+ <BIAS>   3.09698725     </BIAS>
+ <RMSE>  0.416246295     </RMSE>
+ <CORR>   6.64785890E+29 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2441 </ID>
+ <NAME>MNWC_3h_cycl</NAME>
+ <NUM>         758 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3.12213254     </BIAS>
+ <RMSE>  0.394374043     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   5.48288965     </MEAN_OBS>
+ <STDV_OBS>   3.31555438     </STDV_OBS>
+ <EXP>
+ <ID>        2539 </ID>
+ <NAME>MNWC_prod</NAME>
+ <NUM>         789 </NUM>
+ <MEAN>   4.28390360     </MEAN>
+ <STDV>  -250.671631     </STDV>
+ <BIAS>   2.97956944     </BIAS>
+ <RMSE>  0.504025757     </RMSE>
+ <CORR>   6.64785890E+29 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2539 </ID>
+ <NAME>MNWC_3h_cycl</NAME>
+ <NUM>         789 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3.33961868     </BIAS>
+ <RMSE>  0.393955588     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   6.87848949     </MEAN_OBS>
+ <STDV_OBS>   3.28441358     </STDV_OBS>
+ <EXP>
+ <ID>        2343 </ID>
+ <NAME>MNWC_prod</NAME>
+ <NUM>         609 </NUM>
+ <MEAN>   4.31198692     </MEAN>
+ <STDV>  -250.671631     </STDV>
+ <BIAS>   3.10877109     </BIAS>
+ <RMSE>  0.377407193     </RMSE>
+ <CORR>   6.64785890E+29 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2343 </ID>
+ <NAME>MNWC_3h_cycl</NAME>
+ <NUM>         609 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3.21877599     </BIAS>
+ <RMSE>  0.328109503     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   3.84560156     </MEAN_OBS>
+ <STDV_OBS>   3.35495424     </STDV_OBS>
+ <EXP>
+ <ID>        2605 </ID>
+ <NAME>MNWC_prod</NAME>
+ <NUM>         557 </NUM>
+ <MEAN>   4.11849213     </MEAN>
+ <STDV>  -250.671631     </STDV>
+ <BIAS>   3.30661774     </BIAS>
+ <RMSE>  0.404551506     </RMSE>
+ <CORR>   6.64785890E+29 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2605 </ID>
+ <NAME>MNWC_3h_cycl</NAME>
+ <NUM>         557 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3.46008801     </BIAS>
+ <RMSE>  0.363043100     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   6.07951450     </MEAN_OBS>
+ <STDV_OBS>   3.20518351     </STDV_OBS>
+ <EXP>
+ <ID>        2426 </ID>
+ <NAME>MNWC_prod</NAME>
+ <NUM>         742 </NUM>
+ <MEAN>   4.66846371     </MEAN>
+ <STDV>  -250.671631     </STDV>
+ <BIAS>   3.07593369     </BIAS>
+ <RMSE>  0.429595828     </RMSE>
+ <CORR>   6.64785890E+29 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2426 </ID>
+ <NAME>MNWC_3h_cycl</NAME>
+ <NUM>         742 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3.20873761     </BIAS>
+ <RMSE>  0.380222559     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   6.11363602     </MEAN_OBS>
+ <STDV_OBS>   3.06393409     </STDV_OBS>
+ <EXP>
+ <ID>        2126 </ID>
+ <NAME>MNWC_prod</NAME>
+ <NUM>         836 </NUM>
+ <MEAN>   5.27511930     </MEAN>
+ <STDV>  -250.671631     </STDV>
+ <BIAS>   2.96663165     </BIAS>
+ <RMSE>  0.449013978     </RMSE>
+ <CORR>   6.64785890E+29 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2126 </ID>
+ <NAME>MNWC_3h_cycl</NAME>
+ <NUM>         836 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.90544748     </BIAS>
+ <RMSE>  0.442897260     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   5.00139666     </MEAN_OBS>
+ <STDV_OBS>   3.15628529     </STDV_OBS>
+ <EXP>
+ <ID>        2488 </ID>
+ <NAME>MNWC_prod</NAME>
+ <NUM>         716 </NUM>
+ <MEAN>   4.57541895     </MEAN>
+ <STDV>  -250.671631     </STDV>
+ <BIAS>   4.04114866     </BIAS>
+ <RMSE>   1.17302341E-02 </RMSE>
+ <CORR>   6.64785890E+29 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2488 </ID>
+ <NAME>MNWC_3h_cycl</NAME>
+ <NUM>         716 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   4.12836552     </BIAS>
+ <RMSE>  -8.49269796E-03 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   6.10091734     </MEAN_OBS>
+ <STDV_OBS>   3.07355189     </STDV_OBS>
+ <EXP>
+ <ID>        2282 </ID>
+ <NAME>MNWC_prod</NAME>
+ <NUM>         545 </NUM>
+ <MEAN>   5.21834850     </MEAN>
+ <STDV>  -250.671631     </STDV>
+ <BIAS>   3.18883777     </BIAS>
+ <RMSE>  0.391835183     </RMSE>
+ <CORR>   6.64785890E+29 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2282 </ID>
+ <NAME>MNWC_3h_cycl</NAME>
+ <NUM>         545 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3.09260273     </BIAS>
+ <RMSE>  0.403215826     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   6.84642887     </MEAN_OBS>
+ <STDV_OBS>   3.14752555     </STDV_OBS>
+ <EXP>
+ <ID>        2247 </ID>
+ <NAME>MNWC_prod</NAME>
+ <NUM>         840 </NUM>
+ <MEAN>   4.48928595     </MEAN>
+ <STDV>  -250.671631     </STDV>
+ <BIAS>   3.01829648     </BIAS>
+ <RMSE>  0.402686954     </RMSE>
+ <CORR>   6.64785890E+29 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2247 </ID>
+ <NAME>MNWC_3h_cycl</NAME>
+ <NUM>         840 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3.07115173     </BIAS>
+ <RMSE>  0.371052623     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   5.99759626     </MEAN_OBS>
+ <STDV_OBS>   3.07653213     </STDV_OBS>
+ <EXP>
+ <ID>        2490 </ID>
+ <NAME>MNWC_prod</NAME>
+ <NUM>         832 </NUM>
+ <MEAN>   4.63221169     </MEAN>
+ <STDV>  -250.671631     </STDV>
+ <BIAS>   3.02900243     </BIAS>
+ <RMSE>  0.404269099     </RMSE>
+ <CORR>   6.64785890E+29 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2490 </ID>
+ <NAME>MNWC_3h_cycl</NAME>
+ <NUM>         832 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3.13190079     </BIAS>
+ <RMSE>  0.380293041     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   6.08020067     </MEAN_OBS>
+ <STDV_OBS>   3.12488651     </STDV_OBS>
+ <EXP>
+ <ID>        2536 </ID>
+ <NAME>MNWC_prod</NAME>
+ <NUM>         798 </NUM>
+ <MEAN>   3.97869682     </MEAN>
+ <STDV>  -250.671631     </STDV>
+ <BIAS>   3.04781461     </BIAS>
+ <RMSE>  0.450296104     </RMSE>
+ <CORR>   6.64785890E+29 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2536 </ID>
+ <NAME>MNWC_3h_cycl</NAME>
+ <NUM>         798 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3.03215384     </BIAS>
+ <RMSE>  0.436097264     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   6.68241215     </MEAN_OBS>
+ <STDV_OBS>   3.18735814     </STDV_OBS>
+ <EXP>
+ <ID>        2207 </ID>
+ <NAME>MNWC_prod</NAME>
+ <NUM>         995 </NUM>
+ <MEAN>   4.76984930     </MEAN>
+ <STDV>  -250.671631     </STDV>
+ <BIAS>   2.91473651     </BIAS>
+ <RMSE>  0.461378902     </RMSE>
+ <CORR>   6.64785890E+29 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2207 </ID>
+ <NAME>MNWC_3h_cycl</NAME>
+ <NUM>         995 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.89018297     </BIAS>
+ <RMSE>  0.454385698     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   5.84903240     </MEAN_OBS>
+ <STDV_OBS>   3.20773792     </STDV_OBS>
+ <EXP>
+ <ID>        2452 </ID>
+ <NAME>MNWC_prod</NAME>
+ <NUM>         775 </NUM>
+ <MEAN>   4.04903221     </MEAN>
+ <STDV>  -250.671631     </STDV>
+ <BIAS>   2.81800842     </BIAS>
+ <RMSE>  0.519870460     </RMSE>
+ <CORR>   6.64785890E+29 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2452 </ID>
+ <NAME>MNWC_3h_cycl</NAME>
+ <NUM>         775 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.97256279     </BIAS>
+ <RMSE>  0.456646025     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   5.51542425     </MEAN_OBS>
+ <STDV_OBS>   3.11362267     </STDV_OBS>
+ <EXP>
+ <ID>        2498 </ID>
+ <NAME>MNWC_prod</NAME>
+ <NUM>         778 </NUM>
+ <MEAN>   4.54755783     </MEAN>
+ <STDV>  -250.671631     </STDV>
+ <BIAS>   3.12118173     </BIAS>
+ <RMSE>  0.424139977     </RMSE>
+ <CORR>   6.64785890E+29 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2498 </ID>
+ <NAME>MNWC_3h_cycl</NAME>
+ <NUM>         778 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3.29800820     </BIAS>
+ <RMSE>  0.349753618     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   6.45634270     </MEAN_OBS>
+ <STDV_OBS>   3.06909752     </STDV_OBS>
+ <EXP>
+ <ID>        2287 </ID>
+ <NAME>MNWC_prod</NAME>
+ <NUM>         607 </NUM>
+ <MEAN>   4.84349251     </MEAN>
+ <STDV>  -250.671631     </STDV>
+ <BIAS>   3.23899102     </BIAS>
+ <RMSE>  0.217673168     </RMSE>
+ <CORR>   6.64785890E+29 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2287 </ID>
+ <NAME>MNWC_3h_cycl</NAME>
+ <NUM>         607 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3.32134509     </BIAS>
+ <RMSE>  0.248104706     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   6.03290224     </MEAN_OBS>
+ <STDV_OBS>   3.20866704     </STDV_OBS>
+ <EXP>
+ <ID>        2431 </ID>
+ <NAME>MNWC_prod</NAME>
+ <NUM>         851 </NUM>
+ <MEAN>   4.08930683     </MEAN>
+ <STDV>  -250.671631     </STDV>
+ <BIAS>   2.91867781     </BIAS>
+ <RMSE>  0.495809436     </RMSE>
+ <CORR>   6.64785890E+29 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2431 </ID>
+ <NAME>MNWC_3h_cycl</NAME>
+ <NUM>         851 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3.04245210     </BIAS>
+ <RMSE>  0.425635040     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   5.80329800     </MEAN_OBS>
+ <STDV_OBS>   3.09100103     </STDV_OBS>
+ <EXP>
+ <ID>        2549 </ID>
+ <NAME>MNWC_prod</NAME>
+ <NUM>         849 </NUM>
+ <MEAN>   4.51590109     </MEAN>
+ <STDV>  -250.671631     </STDV>
+ <BIAS>   2.62536097     </BIAS>
+ <RMSE>  0.574309707     </RMSE>
+ <CORR>   6.64785890E+29 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2549 </ID>
+ <NAME>MNWC_3h_cycl</NAME>
+ <NUM>         849 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.75370526     </BIAS>
+ <RMSE>  0.521008492     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   6.31650257     </MEAN_OBS>
+ <STDV_OBS>   3.09582639     </STDV_OBS>
+ <EXP>
+ <ID>        2095 </ID>
+ <NAME>MNWC_prod</NAME>
+ <NUM>         812 </NUM>
+ <MEAN>   5.03940868     </MEAN>
+ <STDV>  -250.671631     </STDV>
+ <BIAS>   2.53599024     </BIAS>
+ <RMSE>  0.577296317     </RMSE>
+ <CORR>   6.64785890E+29 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2095 </ID>
+ <NAME>MNWC_3h_cycl</NAME>
+ <NUM>         812 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.65983009     </BIAS>
+ <RMSE>  0.543076098     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   5.37634420     </MEAN_OBS>
+ <STDV_OBS>   3.27893257     </STDV_OBS>
+ <EXP>
+ <ID>        2628 </ID>
+ <NAME>MNWC_prod</NAME>
+ <NUM>         744 </NUM>
+ <MEAN>   4.38575268     </MEAN>
+ <STDV>  -250.671631     </STDV>
+ <BIAS>   4.23650694     </BIAS>
+ <RMSE>  -1.68455336E-02 </RMSE>
+ <CORR>   6.64785890E+29 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2628 </ID>
+ <NAME>MNWC_3h_cycl</NAME>
+ <NUM>         744 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   4.59384441     </BIAS>
+ <RMSE> -0.139246091     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   5.37634420     </MEAN_OBS>
+ <STDV_OBS>   3.22608638     </STDV_OBS>
+ <EXP>
+ <ID>        2347 </ID>
+ <NAME>MNWC_prod</NAME>
+ <NUM>         651 </NUM>
+ <MEAN>   4.32565308     </MEAN>
+ <STDV>  -250.671631     </STDV>
+ <BIAS>   3.46388555     </BIAS>
+ <RMSE>  0.313613653     </RMSE>
+ <CORR>   6.64785890E+29 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2347 </ID>
+ <NAME>MNWC_3h_cycl</NAME>
+ <NUM>         651 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3.58811140     </BIAS>
+ <RMSE>  0.276565522     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   6.06666708     </MEAN_OBS>
+ <STDV_OBS>   3.16713905     </STDV_OBS>
+ <EXP>
+ <ID>        2615 </ID>
+ <NAME>MNWC_prod</NAME>
+ <NUM>         105 </NUM>
+ <MEAN>   4.40000010     </MEAN>
+ <STDV>  -250.671631     </STDV>
+ <BIAS>   3.32701445     </BIAS>
+ <RMSE>  0.168714821     </RMSE>
+ <CORR>   6.64785890E+29 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2615 </ID>
+ <NAME>MNWC_3h_cycl</NAME>
+ <NUM>         105 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3.26792979     </BIAS>
+ <RMSE>  0.208517343     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   5.82326937     </MEAN_OBS>
+ <STDV_OBS>   3.14892745     </STDV_OBS>
+ <EXP>
+ <ID>        2574 </ID>
+ <NAME>MNWC_prod</NAME>
+ <NUM>         679 </NUM>
+ <MEAN>   4.64801168     </MEAN>
+ <STDV>  -250.671631     </STDV>
+ <BIAS>   2.73117137     </BIAS>
+ <RMSE>  0.505814075     </RMSE>
+ <CORR>   6.64785890E+29 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2574 </ID>
+ <NAME>MNWC_3h_cycl</NAME>
+ <NUM>         679 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.86930442     </BIAS>
+ <RMSE>  0.488894314     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   5.91076469     </MEAN_OBS>
+ <STDV_OBS>   3.04620457     </STDV_OBS>
+ <EXP>
+ <ID>        2623 </ID>
+ <NAME>MNWC_prod</NAME>
+ <NUM>         706 </NUM>
+ <MEAN>   4.40368271     </MEAN>
+ <STDV>  -250.671631     </STDV>
+ <BIAS>   3.26911926     </BIAS>
+ <RMSE>  0.339038581     </RMSE>
+ <CORR>   6.64785890E+29 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2623 </ID>
+ <NAME>MNWC_3h_cycl</NAME>
+ <NUM>         706 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3.34012961     </BIAS>
+ <RMSE>  0.279399812     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   5.89285707     </MEAN_OBS>
+ <STDV_OBS>   3.21185303     </STDV_OBS>
+ <EXP>
+ <ID>        2481 </ID>
+ <NAME>MNWC_prod</NAME>
+ <NUM>         700 </NUM>
+ <MEAN>   4.27285719     </MEAN>
+ <STDV>  -250.671631     </STDV>
+ <BIAS>   3.38500023     </BIAS>
+ <RMSE>  0.293520540     </RMSE>
+ <CORR>   6.64785890E+29 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2481 </ID>
+ <NAME>MNWC_3h_cycl</NAME>
+ <NUM>         700 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3.57029819     </BIAS>
+ <RMSE>  0.228527769     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   4.47451687     </MEAN_OBS>
+ <STDV_OBS>   3.15630245     </STDV_OBS>
+ <EXP>
+ <ID>        2500 </ID>
+ <NAME>MNWC_prod</NAME>
+ <NUM>         569 </NUM>
+ <MEAN>   3.66608095     </MEAN>
+ <STDV>  -250.671631     </STDV>
+ <BIAS>   3.36318183     </BIAS>
+ <RMSE>  0.313161761     </RMSE>
+ <CORR>   6.64785890E+29 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2500 </ID>
+ <NAME>MNWC_3h_cycl</NAME>
+ <NUM>         569 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3.37938523     </BIAS>
+ <RMSE>  0.303603530     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   5.60026741     </MEAN_OBS>
+ <STDV_OBS>   3.22565150     </STDV_OBS>
+ <EXP>
+ <ID>        2558 </ID>
+ <NAME>MNWC_prod</NAME>
+ <NUM>         748 </NUM>
+ <MEAN>   4.32620335     </MEAN>
+ <STDV>  -250.671631     </STDV>
+ <BIAS>   3.14065194     </BIAS>
+ <RMSE>  0.413667232     </RMSE>
+ <CORR>   6.64785890E+29 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2558 </ID>
+ <NAME>MNWC_3h_cycl</NAME>
+ <NUM>         748 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3.25782013     </BIAS>
+ <RMSE>  0.384415865     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   6.68407965     </MEAN_OBS>
+ <STDV_OBS>   3.05197549     </STDV_OBS>
+ <EXP>
+ <ID>        2254 </ID>
+ <NAME>MNWC_prod</NAME>
+ <NUM>         804 </NUM>
+ <MEAN>   5.10820866     </MEAN>
+ <STDV>  -250.671631     </STDV>
+ <BIAS>   2.88290310     </BIAS>
+ <RMSE>  0.439210147     </RMSE>
+ <CORR>   6.64785890E+29 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2254 </ID>
+ <NAME>MNWC_3h_cycl</NAME>
+ <NUM>         804 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.83641267     </BIAS>
+ <RMSE>  0.440910965     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   6.77088308     </MEAN_OBS>
+ <STDV_OBS>   3.19051075     </STDV_OBS>
+ <EXP>
+ <ID>        2265 </ID>
+ <NAME>MNWC_prod</NAME>
+ <NUM>         838 </NUM>
+ <MEAN>   4.73269701     </MEAN>
+ <STDV>  -250.671631     </STDV>
+ <BIAS>   3.13345933     </BIAS>
+ <RMSE>  0.369065195     </RMSE>
+ <CORR>   6.64785890E+29 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2265 </ID>
+ <NAME>MNWC_3h_cycl</NAME>
+ <NUM>         838 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3.17259645     </BIAS>
+ <RMSE>  0.341331363     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   6.08066463     </MEAN_OBS>
+ <STDV_OBS>   3.20332289     </STDV_OBS>
+ <EXP>
+ <ID>        2338 </ID>
+ <NAME>MNWC_prod</NAME>
+ <NUM>         843 </NUM>
+ <MEAN>   3.99762774     </MEAN>
+ <STDV>  -250.671631     </STDV>
+ <BIAS>   2.99024916     </BIAS>
+ <RMSE>  0.488221198     </RMSE>
+ <CORR>   6.64785890E+29 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2338 </ID>
+ <NAME>MNWC_3h_cycl</NAME>
+ <NUM>         843 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3.02033186     </BIAS>
+ <RMSE>  0.462832421     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   5.84695196     </MEAN_OBS>
+ <STDV_OBS>   3.20717645     </STDV_OBS>
+ <EXP>
+ <ID>        2554 </ID>
+ <NAME>MNWC_prod</NAME>
+ <NUM>         771 </NUM>
+ <MEAN>   4.19325542     </MEAN>
+ <STDV>  -250.671631     </STDV>
+ <BIAS>   3.23038983     </BIAS>
+ <RMSE>  0.371176690     </RMSE>
+ <CORR>   6.64785890E+29 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2554 </ID>
+ <NAME>MNWC_3h_cycl</NAME>
+ <NUM>         771 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3.47317624     </BIAS>
+ <RMSE>  0.296011239     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   6.09383011     </MEAN_OBS>
+ <STDV_OBS>   3.01653481     </STDV_OBS>
+ <EXP>
+ <ID>        2284 </ID>
+ <NAME>MNWC_prod</NAME>
+ <NUM>         778 </NUM>
+ <MEAN>   4.34704351     </MEAN>
+ <STDV>  -250.671631     </STDV>
+ <BIAS>   3.09254289     </BIAS>
+ <RMSE>  0.348961562     </RMSE>
+ <CORR>   6.64785890E+29 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2284 </ID>
+ <NAME>MNWC_3h_cycl</NAME>
+ <NUM>         778 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3.30169320     </BIAS>
+ <RMSE>  0.264164299     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   5.64955997     </MEAN_OBS>
+ <STDV_OBS>   3.10567808     </STDV_OBS>
+ <EXP>
+ <ID>        2552 </ID>
+ <NAME>MNWC_prod</NAME>
+ <NUM>         682 </NUM>
+ <MEAN>   4.87536669     </MEAN>
+ <STDV>  -250.671631     </STDV>
+ <BIAS>   2.71914434     </BIAS>
+ <RMSE>  0.523009717     </RMSE>
+ <CORR>   6.64785890E+29 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2552 </ID>
+ <NAME>MNWC_3h_cycl</NAME>
+ <NUM>         682 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.94804120     </BIAS>
+ <RMSE>  0.470578164     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   6.63936281     </MEAN_OBS>
+ <STDV_OBS>   3.45125222     </STDV_OBS>
+ <EXP>
+ <ID>        2317 </ID>
+ <NAME>MNWC_prod</NAME>
+ <NUM>         879 </NUM>
+ <MEAN>   4.00455046     </MEAN>
+ <STDV>  -250.671631     </STDV>
+ <BIAS>   3.30435920     </BIAS>
+ <RMSE>  0.394505829     </RMSE>
+ <CORR>   6.64785890E+29 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2317 </ID>
+ <NAME>MNWC_3h_cycl</NAME>
+ <NUM>         879 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3.27429652     </BIAS>
+ <RMSE>  0.387647510     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   5.85221672     </MEAN_OBS>
+ <STDV_OBS>   2.93965030     </STDV_OBS>
+ <EXP>
+ <ID>        2331 </ID>
+ <NAME>MNWC_prod</NAME>
+ <NUM>         406 </NUM>
+ <MEAN>   4.23891640     </MEAN>
+ <STDV>  -250.671631     </STDV>
+ <BIAS>   3.58494449     </BIAS>
+ <RMSE>  0.122836500     </RMSE>
+ <CORR>   6.64785890E+29 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2331 </ID>
+ <NAME>MNWC_3h_cycl</NAME>
+ <NUM>         406 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3.61451912     </BIAS>
+ <RMSE>  0.110097654     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   6.02613497     </MEAN_OBS>
+ <STDV_OBS>   2.94498539     </STDV_OBS>
+ <EXP>
+ <ID>        2540 </ID>
+ <NAME>MNWC_prod</NAME>
+ <NUM>         727 </NUM>
+ <MEAN>   3.45942235     </MEAN>
+ <STDV>  -250.671631     </STDV>
+ <BIAS>   2.83230901     </BIAS>
+ <RMSE>  0.441942304     </RMSE>
+ <CORR>   6.64785890E+29 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2540 </ID>
+ <NAME>MNWC_3h_cycl</NAME>
+ <NUM>         727 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.86287093     </BIAS>
+ <RMSE>  0.416909724     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   3.74580336     </MEAN_OBS>
+ <STDV_OBS>   3.04613686     </STDV_OBS>
+ <EXP>
+ <ID>        2516 </ID>
+ <NAME>MNWC_prod</NAME>
+ <NUM>         417 </NUM>
+ <MEAN>   3.35971236     </MEAN>
+ <STDV>  -250.671631     </STDV>
+ <BIAS>   3.57032228     </BIAS>
+ <RMSE>  0.187202498     </RMSE>
+ <CORR>   6.64785890E+29 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2516 </ID>
+ <NAME>MNWC_3h_cycl</NAME>
+ <NUM>         417 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3.60416746     </BIAS>
+ <RMSE>  0.175474286     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   6.31837320     </MEAN_OBS>
+ <STDV_OBS>   2.92404461     </STDV_OBS>
+ <EXP>
+ <ID>        2269 </ID>
+ <NAME>MNWC_prod</NAME>
+ <NUM>         713 </NUM>
+ <MEAN>   4.87938309     </MEAN>
+ <STDV>  -250.671631     </STDV>
+ <BIAS>   3.45468807     </BIAS>
+ <RMSE>  0.115260273     </RMSE>
+ <CORR>   6.64785890E+29 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2269 </ID>
+ <NAME>MNWC_3h_cycl</NAME>
+ <NUM>         713 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3.64012170     </BIAS>
+ <RMSE>   6.00418486E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   6.39272261     </MEAN_OBS>
+ <STDV_OBS>   3.28851342     </STDV_OBS>
+ <EXP>
+ <ID>        2644 </ID>
+ <NAME>MNWC_prod</NAME>
+ <NUM>         797 </NUM>
+ <MEAN>   4.12672520     </MEAN>
+ <STDV>  -250.671631     </STDV>
+ <BIAS>   3.45987153     </BIAS>
+ <RMSE>  0.268882692     </RMSE>
+ <CORR>   6.64785890E+29 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2644 </ID>
+ <NAME>MNWC_3h_cycl</NAME>
+ <NUM>         797 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3.44222951     </BIAS>
+ <RMSE>  0.292681694     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   6.64240456     </MEAN_OBS>
+ <STDV_OBS>   3.18523169     </STDV_OBS>
+ <EXP>
+ <ID>        2119 </ID>
+ <NAME>MNWC_prod</NAME>
+ <NUM>         948 </NUM>
+ <MEAN>   5.42721510     </MEAN>
+ <STDV>  -250.671631     </STDV>
+ <BIAS>   2.78041863     </BIAS>
+ <RMSE>  0.534065545     </RMSE>
+ <CORR>   6.64785890E+29 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2119 </ID>
+ <NAME>MNWC_3h_cycl</NAME>
+ <NUM>         948 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.63978457     </BIAS>
+ <RMSE>  0.562673867     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   6.48787880     </MEAN_OBS>
+ <STDV_OBS>   3.03479910     </STDV_OBS>
+ <EXP>
+ <ID>        2176 </ID>
+ <NAME>MNWC_prod</NAME>
+ <NUM>         660 </NUM>
+ <MEAN>   4.69696951     </MEAN>
+ <STDV>  -250.671631     </STDV>
+ <BIAS>   2.73911405     </BIAS>
+ <RMSE>  0.492652863     </RMSE>
+ <CORR>   6.64785890E+29 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2176 </ID>
+ <NAME>MNWC_3h_cycl</NAME>
+ <NUM>         660 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.97595024     </BIAS>
+ <RMSE>  0.405686259     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   6.37484407     </MEAN_OBS>
+ <STDV_OBS>   3.18621898     </STDV_OBS>
+ <EXP>
+ <ID>        2263 </ID>
+ <NAME>MNWC_prod</NAME>
+ <NUM>         803 </NUM>
+ <MEAN>   4.91282654     </MEAN>
+ <STDV>  -250.671631     </STDV>
+ <BIAS>   2.96986151     </BIAS>
+ <RMSE>  0.450901508     </RMSE>
+ <CORR>   6.64785890E+29 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2263 </ID>
+ <NAME>MNWC_3h_cycl</NAME>
+ <NUM>         803 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3.00219750     </BIAS>
+ <RMSE>  0.435634881     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   6.49310350     </MEAN_OBS>
+ <STDV_OBS>   3.16898584     </STDV_OBS>
+ <EXP>
+ <ID>        2135 </ID>
+ <NAME>MNWC_prod</NAME>
+ <NUM>         870 </NUM>
+ <MEAN>   5.01034498     </MEAN>
+ <STDV>  -250.671631     </STDV>
+ <BIAS>   2.79724312     </BIAS>
+ <RMSE>  0.515581667     </RMSE>
+ <CORR>   6.64785890E+29 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2135 </ID>
+ <NAME>MNWC_3h_cycl</NAME>
+ <NUM>         870 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.85094094     </BIAS>
+ <RMSE>  0.496281743     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   6.40219069     </MEAN_OBS>
+ <STDV_OBS>   3.01040936     </STDV_OBS>
+ <EXP>
+ <ID>        2411 </ID>
+ <NAME>MNWC_prod</NAME>
+ <NUM>         639 </NUM>
+ <MEAN>   4.24413157     </MEAN>
+ <STDV>  -250.671631     </STDV>
+ <BIAS>   2.82215548     </BIAS>
+ <RMSE>  0.487502426     </RMSE>
+ <CORR>   6.64785890E+29 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2411 </ID>
+ <NAME>MNWC_3h_cycl</NAME>
+ <NUM>         639 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.80984092     </BIAS>
+ <RMSE>  0.457342118     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   5.25344372     </MEAN_OBS>
+ <STDV_OBS>   3.21083832     </STDV_OBS>
+ <EXP>
+ <ID>        2542 </ID>
+ <NAME>MNWC_prod</NAME>
+ <NUM>         726 </NUM>
+ <MEAN>   3.58402205     </MEAN>
+ <STDV>  -250.671631     </STDV>
+ <BIAS>   3.47693658     </BIAS>
+ <RMSE>  0.310994953     </RMSE>
+ <CORR>   6.64785890E+29 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2542 </ID>
+ <NAME>MNWC_3h_cycl</NAME>
+ <NUM>         726 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3.59266543     </BIAS>
+ <RMSE>  0.257854372     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   6.42768097     </MEAN_OBS>
+ <STDV_OBS>   2.98581529     </STDV_OBS>
+ <EXP>
+ <ID>        2557 </ID>
+ <NAME>MNWC_prod</NAME>
+ <NUM>         802 </NUM>
+ <MEAN>   5.00374079     </MEAN>
+ <STDV>  -250.671631     </STDV>
+ <BIAS>   2.64182687     </BIAS>
+ <RMSE>  0.536319256     </RMSE>
+ <CORR>   6.64785890E+29 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2557 </ID>
+ <NAME>MNWC_3h_cycl</NAME>
+ <NUM>         802 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.63958478     </BIAS>
+ <RMSE>  0.530392528     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   6.22830534     </MEAN_OBS>
+ <STDV_OBS>   3.07173085     </STDV_OBS>
+ <EXP>
+ <ID>        2055 </ID>
+ <NAME>MNWC_prod</NAME>
+ <NUM>         968 </NUM>
+ <MEAN>   5.31301641     </MEAN>
+ <STDV>  -250.671631     </STDV>
+ <BIAS>   3.03975773     </BIAS>
+ <RMSE>  0.419792086     </RMSE>
+ <CORR>   6.64785890E+29 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2055 </ID>
+ <NAME>MNWC_3h_cycl</NAME>
+ <NUM>         968 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.91530824     </BIAS>
+ <RMSE>  0.428235561     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   6.47732449     </MEAN_OBS>
+ <STDV_OBS>   3.37679744     </STDV_OBS>
+ <EXP>
+ <ID>        2308 </ID>
+ <NAME>MNWC_prod</NAME>
+ <NUM>         882 </NUM>
+ <MEAN>   4.16553307     </MEAN>
+ <STDV>  -250.671631     </STDV>
+ <BIAS>   3.22062755     </BIAS>
+ <RMSE>  0.423290610     </RMSE>
+ <CORR>   6.64785890E+29 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2308 </ID>
+ <NAME>MNWC_3h_cycl</NAME>
+ <NUM>         882 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3.13947463     </BIAS>
+ <RMSE>  0.436374038     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   5.26388884     </MEAN_OBS>
+ <STDV_OBS>   3.13898897     </STDV_OBS>
+ <EXP>
+ <ID>        2546 </ID>
+ <NAME>MNWC_prod</NAME>
+ <NUM>         720 </NUM>
+ <MEAN>   4.12083340     </MEAN>
+ <STDV>  -250.671631     </STDV>
+ <BIAS>   3.49557805     </BIAS>
+ <RMSE>  0.283432692     </RMSE>
+ <CORR>   6.64785890E+29 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2546 </ID>
+ <NAME>MNWC_3h_cycl</NAME>
+ <NUM>         720 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3.65495586     </BIAS>
+ <RMSE>  0.211708218     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   4.56418943     </MEAN_OBS>
+ <STDV_OBS>   3.20754862     </STDV_OBS>
+ <EXP>
+ <ID>        2449 </ID>
+ <NAME>MNWC_prod</NAME>
+ <NUM>         592 </NUM>
+ <MEAN>   4.57770300     </MEAN>
+ <STDV>  -250.671631     </STDV>
+ <BIAS>   3.42541552     </BIAS>
+ <RMSE>  0.321252078     </RMSE>
+ <CORR>   6.64785890E+29 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2449 </ID>
+ <NAME>MNWC_3h_cycl</NAME>
+ <NUM>         592 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3.60927200     </BIAS>
+ <RMSE>  0.272205412     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   6.46997404     </MEAN_OBS>
+ <STDV_OBS>   2.92158413     </STDV_OBS>
+ <EXP>
+ <ID>        2199 </ID>
+ <NAME>MNWC_prod</NAME>
+ <NUM>         766 </NUM>
+ <MEAN>   5.33159256     </MEAN>
+ <STDV>  -250.671631     </STDV>
+ <BIAS>   2.81049371     </BIAS>
+ <RMSE>  0.432783365     </RMSE>
+ <CORR>   6.64785890E+29 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2199 </ID>
+ <NAME>MNWC_3h_cycl</NAME>
+ <NUM>         766 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.83702922     </BIAS>
+ <RMSE>  0.431011379     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   6.06303024     </MEAN_OBS>
+ <STDV_OBS>   2.97347188     </STDV_OBS>
+ <EXP>
+ <ID>        2072 </ID>
+ <NAME>MNWC_prod</NAME>
+ <NUM>         825 </NUM>
+ <MEAN>   5.61454535     </MEAN>
+ <STDV>  -250.671631     </STDV>
+ <BIAS>   2.81153226     </BIAS>
+ <RMSE>  0.503597200     </RMSE>
+ <CORR>   6.64785890E+29 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2072 </ID>
+ <NAME>MNWC_3h_cycl</NAME>
+ <NUM>         825 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.71830177     </BIAS>
+ <RMSE>  0.523558319     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   6.45686913     </MEAN_OBS>
+ <STDV_OBS>   3.34704685     </STDV_OBS>
+ <EXP>
+ <ID>        2036 </ID>
+ <NAME>MNWC_prod</NAME>
+ <NUM>         939 </NUM>
+ <MEAN>   4.68051100     </MEAN>
+ <STDV>  -250.671631     </STDV>
+ <BIAS>   3.18895411     </BIAS>
+ <RMSE>  0.407959163     </RMSE>
+ <CORR>   6.64785890E+29 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2036 </ID>
+ <NAME>MNWC_3h_cycl</NAME>
+ <NUM>         939 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3.07503510     </BIAS>
+ <RMSE>  0.452554494     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   5.54436111     </MEAN_OBS>
+ <STDV_OBS>   3.21094370     </STDV_OBS>
+ <EXP>
+ <ID>        2476 </ID>
+ <NAME>MNWC_prod</NAME>
+ <NUM>         665 </NUM>
+ <MEAN>   4.41954899     </MEAN>
+ <STDV>  -250.671631     </STDV>
+ <BIAS>   3.22842956     </BIAS>
+ <RMSE>  0.384890318     </RMSE>
+ <CORR>   6.64785890E+29 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2476 </ID>
+ <NAME>MNWC_3h_cycl</NAME>
+ <NUM>         665 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3.30154681     </BIAS>
+ <RMSE>  0.372371733     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   5.95168543     </MEAN_OBS>
+ <STDV_OBS>   3.30856013     </STDV_OBS>
+ <EXP>
+ <ID>        2407 </ID>
+ <NAME>MNWC_prod</NAME>
+ <NUM>         890 </NUM>
+ <MEAN>   4.23820210     </MEAN>
+ <STDV>  -250.671631     </STDV>
+ <BIAS>   3.10681963     </BIAS>
+ <RMSE>  0.466907889     </RMSE>
+ <CORR>   6.64785890E+29 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2407 </ID>
+ <NAME>MNWC_3h_cycl</NAME>
+ <NUM>         890 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3.18880367     </BIAS>
+ <RMSE>  0.428565592     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   6.80555534     </MEAN_OBS>
+ <STDV_OBS>   2.83738852     </STDV_OBS>
+ <EXP>
+ <ID>        2161 </ID>
+ <NAME>MNWC_prod</NAME>
+ <NUM>         792 </NUM>
+ <MEAN>   5.85858583     </MEAN>
+ <STDV>  -250.671631     </STDV>
+ <BIAS>   2.58157754     </BIAS>
+ <RMSE>  0.529633820     </RMSE>
+ <CORR>   6.64785890E+29 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2161 </ID>
+ <NAME>MNWC_3h_cycl</NAME>
+ <NUM>         792 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.37138152     </BIAS>
+ <RMSE>  0.575802207     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   6.59911251     </MEAN_OBS>
+ <STDV_OBS>   3.23082900     </STDV_OBS>
+ <EXP>
+ <ID>        2297 </ID>
+ <NAME>MNWC_prod</NAME>
+ <NUM>         676 </NUM>
+ <MEAN>   4.77514791     </MEAN>
+ <STDV>  -250.671631     </STDV>
+ <BIAS>   3.05863237     </BIAS>
+ <RMSE>  0.404873788     </RMSE>
+ <CORR>   6.64785890E+29 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2297 </ID>
+ <NAME>MNWC_3h_cycl</NAME>
+ <NUM>         676 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3.09849453     </BIAS>
+ <RMSE>  0.415770799     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   5.61585331     </MEAN_OBS>
+ <STDV_OBS>   3.00526094     </STDV_OBS>
+ <EXP>
+ <ID>        2408 </ID>
+ <NAME>MNWC_prod</NAME>
+ <NUM>         656 </NUM>
+ <MEAN>   3.91006088     </MEAN>
+ <STDV>  -250.671631     </STDV>
+ <BIAS>   2.89004731     </BIAS>
+ <RMSE>  0.459252238     </RMSE>
+ <CORR>   6.64785890E+29 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2408 </ID>
+ <NAME>MNWC_3h_cycl</NAME>
+ <NUM>         656 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.84192753     </BIAS>
+ <RMSE>  0.467141777     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   6.48918915     </MEAN_OBS>
+ <STDV_OBS>   2.95734310     </STDV_OBS>
+ <EXP>
+ <ID>        2181 </ID>
+ <NAME>MNWC_prod</NAME>
+ <NUM>         740 </NUM>
+ <MEAN>   5.07162189     </MEAN>
+ <STDV>  -250.671631     </STDV>
+ <BIAS>   2.97165179     </BIAS>
+ <RMSE>  0.350948036     </RMSE>
+ <CORR>   6.64785890E+29 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2181 </ID>
+ <NAME>MNWC_3h_cycl</NAME>
+ <NUM>         740 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3.00988746     </BIAS>
+ <RMSE>  0.364363730     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   5.92977524     </MEAN_OBS>
+ <STDV_OBS>   3.08197999     </STDV_OBS>
+ <EXP>
+ <ID>        2565 </ID>
+ <NAME>MNWC_prod</NAME>
+ <NUM>         712 </NUM>
+ <MEAN>   4.90449429     </MEAN>
+ <STDV>  -250.671631     </STDV>
+ <BIAS>   2.83902168     </BIAS>
+ <RMSE>  0.511878788     </RMSE>
+ <CORR>   6.64785890E+29 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2565 </ID>
+ <NAME>MNWC_3h_cycl</NAME>
+ <NUM>         712 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.79886246     </BIAS>
+ <RMSE>  0.521293819     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   6.23163128     </MEAN_OBS>
+ <STDV_OBS>   3.13209915     </STDV_OBS>
+ <EXP>
+ <ID>        2149 </ID>
+ <NAME>MNWC_prod</NAME>
+ <NUM>         803 </NUM>
+ <MEAN>   5.13823128     </MEAN>
+ <STDV>  -250.671631     </STDV>
+ <BIAS>   2.87191129     </BIAS>
+ <RMSE>  0.487681121     </RMSE>
+ <CORR>   6.64785890E+29 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2149 </ID>
+ <NAME>MNWC_3h_cycl</NAME>
+ <NUM>         803 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.95630169     </BIAS>
+ <RMSE>  0.444710702     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   6.01342297     </MEAN_OBS>
+ <STDV_OBS>   3.07174683     </STDV_OBS>
+ <EXP>
+ <ID>        2453 </ID>
+ <NAME>MNWC_prod</NAME>
+ <NUM>         745 </NUM>
+ <MEAN>   4.33557081     </MEAN>
+ <STDV>  -250.671631     </STDV>
+ <BIAS>   2.87768030     </BIAS>
+ <RMSE>  0.485702753     </RMSE>
+ <CORR>   6.64785890E+29 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2453 </ID>
+ <NAME>MNWC_3h_cycl</NAME>
+ <NUM>         745 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.98782420     </BIAS>
+ <RMSE>  0.431866735     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   5.53306341     </MEAN_OBS>
+ <STDV_OBS>   3.27909780     </STDV_OBS>
+ <EXP>
+ <ID>        2679 </ID>
+ <NAME>MNWC_prod</NAME>
+ <NUM>         741 </NUM>
+ <MEAN>   4.01484489     </MEAN>
+ <STDV>  -250.671631     </STDV>
+ <BIAS>   3.08456326     </BIAS>
+ <RMSE>  0.479501694     </RMSE>
+ <CORR>   6.64785890E+29 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2679 </ID>
+ <NAME>MNWC_3h_cycl</NAME>
+ <NUM>         741 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3.15351796     </BIAS>
+ <RMSE>  0.458319575     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   6.32411051     </MEAN_OBS>
+ <STDV_OBS>   3.07823205     </STDV_OBS>
+ <EXP>
+ <ID>        2174 </ID>
+ <NAME>MNWC_prod</NAME>
+ <NUM>         759 </NUM>
+ <MEAN>   5.06851149     </MEAN>
+ <STDV>  -250.671631     </STDV>
+ <BIAS>   2.67779517     </BIAS>
+ <RMSE>  0.541255593     </RMSE>
+ <CORR>   6.64785890E+29 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2174 </ID>
+ <NAME>MNWC_3h_cycl</NAME>
+ <NUM>         759 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.78108025     </BIAS>
+ <RMSE>  0.510293543     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   5.45161247     </MEAN_OBS>
+ <STDV_OBS>   3.25649238     </STDV_OBS>
+ <EXP>
+ <ID>        2589 </ID>
+ <NAME>MNWC_prod</NAME>
+ <NUM>         899 </NUM>
+ <MEAN>   4.23804188     </MEAN>
+ <STDV>  -250.671631     </STDV>
+ <BIAS>   2.82239628     </BIAS>
+ <RMSE>  0.525806606     </RMSE>
+ <CORR>   6.64785890E+29 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2589 </ID>
+ <NAME>MNWC_3h_cycl</NAME>
+ <NUM>         899 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.96381474     </BIAS>
+ <RMSE>  0.485612094     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   5.95507097     </MEAN_OBS>
+ <STDV_OBS>   3.09437799     </STDV_OBS>
+ <EXP>
+ <ID>        2197 </ID>
+ <NAME>MNWC_prod</NAME>
+ <NUM>         779 </NUM>
+ <MEAN>   4.65725279     </MEAN>
+ <STDV>  -250.671631     </STDV>
+ <BIAS>   3.12818193     </BIAS>
+ <RMSE>  0.396154553     </RMSE>
+ <CORR>   6.64785890E+29 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2197 </ID>
+ <NAME>MNWC_3h_cycl</NAME>
+ <NUM>         779 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3.06391168     </BIAS>
+ <RMSE>  0.400714397     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   5.66043997     </MEAN_OBS>
+ <STDV_OBS>   3.12321162     </STDV_OBS>
+ <EXP>
+ <ID>        2587 </ID>
+ <NAME>MNWC_prod</NAME>
+ <NUM>         910 </NUM>
+ <MEAN>   4.20219803     </MEAN>
+ <STDV>  -250.671631     </STDV>
+ <BIAS>   2.88416982     </BIAS>
+ <RMSE>  0.525563121     </RMSE>
+ <CORR>   6.64785890E+29 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2587 </ID>
+ <NAME>MNWC_3h_cycl</NAME>
+ <NUM>         910 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.85663152     </BIAS>
+ <RMSE>  0.527597666     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   6.33131838     </MEAN_OBS>
+ <STDV_OBS>   3.01895690     </STDV_OBS>
+ <EXP>
+ <ID>        2124 </ID>
+ <NAME>MNWC_prod</NAME>
+ <NUM>         827 </NUM>
+ <MEAN>   5.55501842     </MEAN>
+ <STDV>  -250.671631     </STDV>
+ <BIAS>   2.80855680     </BIAS>
+ <RMSE>  0.478370965     </RMSE>
+ <CORR>   6.64785890E+29 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2124 </ID>
+ <NAME>MNWC_3h_cycl</NAME>
+ <NUM>         827 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.70867109     </BIAS>
+ <RMSE>  0.505232871     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   6.33680105     </MEAN_OBS>
+ <STDV_OBS>   3.07237983     </STDV_OBS>
+ <EXP>
+ <ID>        2173 </ID>
+ <NAME>MNWC_prod</NAME>
+ <NUM>         769 </NUM>
+ <MEAN>   4.85825729     </MEAN>
+ <STDV>  -250.671631     </STDV>
+ <BIAS>   3.16238022     </BIAS>
+ <RMSE>  0.364166260     </RMSE>
+ <CORR>   6.64785890E+29 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2173 </ID>
+ <NAME>MNWC_3h_cycl</NAME>
+ <NUM>         769 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3.28607726     </BIAS>
+ <RMSE>  0.314044386     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   3.21250010     </MEAN_OBS>
+ <STDV_OBS>   2.81624293     </STDV_OBS>
+ <EXP>
+ <ID>        2625 </ID>
+ <NAME>MNWC_prod</NAME>
+ <NUM>         240 </NUM>
+ <MEAN>   5.68750048     </MEAN>
+ <STDV>  -250.671631     </STDV>
+ <BIAS>   3.82916188     </BIAS>
+ <RMSE>  -4.13464103E-03 </RMSE>
+ <CORR>   6.64785890E+29 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2625 </ID>
+ <NAME>MNWC_3h_cycl</NAME>
+ <NUM>         240 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3.77593803     </BIAS>
+ <RMSE>  -5.57130650E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   5.92785215     </MEAN_OBS>
+ <STDV_OBS>   3.02732611     </STDV_OBS>
+ <EXP>
+ <ID>        2188 </ID>
+ <NAME>MNWC_prod</NAME>
+ <NUM>         596 </NUM>
+ <MEAN>   4.99832201     </MEAN>
+ <STDV>  -250.671631     </STDV>
+ <BIAS>   3.20364714     </BIAS>
+ <RMSE>  0.311054647     </RMSE>
+ <CORR>   6.64785890E+29 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2188 </ID>
+ <NAME>MNWC_3h_cycl</NAME>
+ <NUM>         596 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3.40573931     </BIAS>
+ <RMSE>  0.255642235     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   5.16373444     </MEAN_OBS>
+ <STDV_OBS>   3.13821578     </STDV_OBS>
+ <EXP>
+ <ID>        2493 </ID>
+ <NAME>MNWC_prod</NAME>
+ <NUM>         739 </NUM>
+ <MEAN>   4.74018908     </MEAN>
+ <STDV>  -250.671631     </STDV>
+ <BIAS>   3.21705031     </BIAS>
+ <RMSE>  0.394477844     </RMSE>
+ <CORR>   6.64785890E+29 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2493 </ID>
+ <NAME>MNWC_3h_cycl</NAME>
+ <NUM>         739 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3.15079522     </BIAS>
+ <RMSE>  0.424847037     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   6.06645584     </MEAN_OBS>
+ <STDV_OBS>   2.93119502     </STDV_OBS>
+ <EXP>
+ <ID>        2191 </ID>
+ <NAME>MNWC_prod</NAME>
+ <NUM>         632 </NUM>
+ <MEAN>   5.09335470     </MEAN>
+ <STDV>  -250.671631     </STDV>
+ <BIAS>   3.27009320     </BIAS>
+ <RMSE>  0.286837488     </RMSE>
+ <CORR>   6.64785890E+29 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2191 </ID>
+ <NAME>MNWC_3h_cycl</NAME>
+ <NUM>         632 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3.32580590     </BIAS>
+ <RMSE>  0.236237049     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   3.89855075     </MEAN_OBS>
+ <STDV_OBS>   3.65363431     </STDV_OBS>
+ <EXP>
+ <ID>        2824 </ID>
+ <NAME>MNWC_prod</NAME>
+ <NUM>         138 </NUM>
+ <MEAN>   3.96376824     </MEAN>
+ <STDV>  -250.671631     </STDV>
+ <BIAS>   1.98995864     </BIAS>
+ <RMSE>  0.837452531     </RMSE>
+ <CORR>   6.64785890E+29 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2824 </ID>
+ <NAME>MNWC_3h_cycl</NAME>
+ <NUM>         138 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.83842444     </BIAS>
+ <RMSE>  0.868822873     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   4.67391300     </MEAN_OBS>
+ <STDV_OBS>   3.04457521     </STDV_OBS>
+ <EXP>
+ <ID>        2945 </ID>
+ <NAME>MNWC_prod</NAME>
+ <NUM>         138 </NUM>
+ <MEAN>   2.56521749     </MEAN>
+ <STDV>  -250.671631     </STDV>
+ <BIAS>   2.76268530     </BIAS>
+ <RMSE>  0.604992568     </RMSE>
+ <CORR>   6.64785890E+29 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2945 </ID>
+ <NAME>MNWC_3h_cycl</NAME>
+ <NUM>         138 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3.19121265     </BIAS>
+ <RMSE>  0.472196937     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   4.62126255     </MEAN_OBS>
+ <STDV_OBS>   3.31428671     </STDV_OBS>
+ <EXP>
+ <ID>        2616 </ID>
+ <NAME>MNWC_prod</NAME>
+ <NUM>         301 </NUM>
+ <MEAN>   3.04651165     </MEAN>
+ <STDV>  -250.671631     </STDV>
+ <BIAS>   2.49001479     </BIAS>
+ <RMSE>  0.643950880     </RMSE>
+ <CORR>   6.64785890E+29 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2616 </ID>
+ <NAME>MNWC_3h_cycl</NAME>
+ <NUM>         301 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.58642507     </BIAS>
+ <RMSE>  0.639616549     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+</STAT>
